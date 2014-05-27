@@ -3,36 +3,36 @@
 
 # Add-on description displayed in Firefox preferences
 ;Adds a Goal.com feed to your Firefox for Android homepage.
-Adds a Goal.com feed to your Firefox for Android homepage.
+Ajoute un flux Goal.com à votre page d'accueil Firefox pour Android.
 
 
 # Label for add-ons option to change the version of the feed that appears in the panel
 ;Select Country Edition
-Select Country Edition
+Sélectionnez une édition
 
 
 # Add-on option for international feed edition (contents in English)
 ;International (English)
-International (English)
+International (Anglais)
 
 
 # Link to help in add-on settings
 ;Need help?
-Need help?
+Besoin d'aide&nbsp;?
 
 
 # Prompt that opens after installing feed
 ;Welcome to your Goal.com panel!
-Welcome to your Goal.com panel!
+Bienvenue dans votre panneau Goal.com&nbsp;!
 
 
 # Prompt message
 ;Which edition would you like to follow?
-Which edition would you like to follow?
+Quelle édition voulez-vous suivre&nbsp;?
 
 
 # prompt OK button
 ;OK
-OK
+OK {ok}
 
 

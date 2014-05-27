@@ -3,26 +3,26 @@
 
 # Add-on description displayed in Firefox preferences
 ;Allows you to subscribe to feeds on your home page.
-Allows you to subscribe to feeds on your home page.
+Permet de vous abonner à des flux sur votre page d'accueil.
 
 
 # Label for page action item
 ;Subscribe to page
-Subscribe to page
+S'abonner à cette page
 
 
 # Title for subscribe prompt
 ;Subscribe with
-Subscribe with
+S’abonner avec
 
 
 # Option added to subscribe prompt
 ;Firefox homepage
-Firefox homepage
+Page d'accueil de Firefox
 
 
 # Toast notification that appears after the "Firefox homepage" option is selected
 ;Added to Firefox homepage
-Added to Firefox homepage
+Ajouté à la page d'accueil de Firefox
 
 
