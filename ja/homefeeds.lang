@@ -3,26 +3,26 @@
 
 # Add-on description displayed in Firefox preferences
 ;Allows you to subscribe to feeds on your home page.
-Allows you to subscribe to feeds on your home page.
+このアドオンを利用すると、ホーム画面でフィードを表示できるようになります。
 
 
 # Label for page action item
 ;Subscribe to page
-Subscribe to page
+このページを購読する
 
 
 # Title for subscribe prompt
 ;Subscribe with
-Subscribe with
+購読しますか？
 
 
 # Option added to subscribe prompt
 ;Firefox homepage
-Firefox homepage
+ホーム画面
 
 
 # Toast notification that appears after the "Firefox homepage" option is selected
 ;Added to Firefox homepage
-Added to Firefox homepage
+ホーム画面に追加されました
 
 
