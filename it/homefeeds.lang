@@ -19,11 +19,10 @@ Abbonati al feed RSS utilizzando
 # Toast notification that appears after the user subscribes to a feed
 # %S is replaced with the brandShortName string.
 ;Feed added to %S homepage
-Feed added to %S homepage
+Feed aggiunto alla schermata iniziale di %S
 
 
 # Toast notification that appears if a panel already exists for the feed
 ;This feed is already on your homepage
-This feed is already on your homepage
-
+Questo feed è già presente nella schermata iniziale
 
