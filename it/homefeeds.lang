@@ -16,13 +16,14 @@ Abbonati alla pagina
 Abbonati al feed RSS utilizzando
 
 
-# Option added to subscribe prompt
-;Firefox homepage
-Schermata iniziale di Firefox
+# Toast notification that appears after the user subscribes to a feed
+# %S is replaced with the brandShortName string.
+;Feed added to %S homepage
+Feed added to %S homepage
 
 
-# Toast notification that appears after the "Firefox homepage" option is selected
-;Added to Firefox homepage
-Aggiunto alla schermata iniziale di Firefox
+# Toast notification that appears if a panel already exists for the feed
+;This feed is already on your homepage
+This feed is already on your homepage
 
 
