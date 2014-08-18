@@ -3,7 +3,7 @@
 
 # Add-on description displayed in Firefox preferences
 ;Allows you to subscribe to feeds on your home page.
-Permet de vous abonner à des flux sur votre page d'accueil.
+Permet de vous abonner à des flux sur votre écran d'accueil.
 
 
 # Label for page action item
@@ -13,17 +13,15 @@ S'abonner à cette page
 
 # Title for subscribe prompt
 ;Subscribe with
-S’abonner avec
+S'abonner avec
 
 
 # Toast notification that appears after the user subscribes to a feed
 # %S is replaced with the brandShortName string.
 ;Feed added to %S homepage
-Feed added to %S homepage
+Flux ajouté à l'écran d'accueil de %S
 
 
 # Toast notification that appears if a panel already exists for the feed
 ;This feed is already on your homepage
-This feed is already on your homepage
-
-
+Ce flux est déjà présent sur votre écran d'accueil
