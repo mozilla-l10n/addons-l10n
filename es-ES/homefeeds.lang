@@ -19,11 +19,11 @@ Suscribirse con
 # Toast notification that appears after the user subscribes to a feed
 # %S is replaced with the brandShortName string.
 ;Feed added to %S homepage
-Feed added to %S homepage
+Canal añadido a la página de inicio de %S
 
 
 # Toast notification that appears if a panel already exists for the feed
 ;This feed is already on your homepage
-This feed is already on your homepage
+Este canal ya está en tu página de inicio
 
 
