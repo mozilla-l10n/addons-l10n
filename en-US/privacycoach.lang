@@ -1,0 +1,370 @@
+## NOTE: add-on in development is at https://github.com/leibovic/privacy-coach
+
+# This is the title of the Application
+# privacyCoach.title
+;Privacy Coach
+Privacy Coach
+
+
+# Warns you if your search engine (%S is the search engine name) ddoesn't use HTTPS
+# httpsWarning.message
+;%S doesn't use https. Are you sure you want to continue?
+%S doesn't use https. Are you sure you want to continue?
+
+
+
+# httpsWarning.dontAsk
+;Don't ask me again for %S
+Don't ask me again for %S
+
+
+# defaultWarning.message
+;%S doesn't use https. You may want to change your default.
+%S doesn't use https. You may want to change your default.
+
+
+# addEngineWarning.message
+;%S doesn't use https. Are you sure you want to add this search engine?
+%S doesn't use https. Are you sure you want to add this search engine?
+
+
+# prefs.dnt.noPref
+;Do not tell sites anything about my tracking preferences
+Do not tell sites anything about my tracking preferences
+
+
+#prefs.dnt.disallowTracking
+;Tell sites that I do not want to be tracked
+Tell sites that I do not want to be tracked
+
+
+# prefs.dnt.allowTracking
+;Tell sites that I want to be tracked
+Tell sites that I want to be tracked
+
+
+# prefs.cookies.firstPartyOnly
+;Enabled, excluding 3rd party
+Enabled, excluding 3rd party
+
+
+# prefs.enabled
+;Enabled
+Enabled
+
+
+# prefs.disabled
+;Disabled
+Disabled
+
+
+# prefs.currentValue
+;Current setting: %S
+Current setting: %S
+
+
+# search.https
+;Your default search engine (%S) uses HTTPS. Search away!
+Your default search engine (%S) uses HTTPS. Search away!
+
+
+# search.http
+;Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
+Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
+
+
+# https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-dat
+# banner.1.text
+;Discover all the ways you can clear your personal browsing data from Firefox »
+Discover all the ways you can clear your personal browsing data from Firefox »
+
+
+# https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
+# banner.2.text
+;Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
+Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
+
+
+# https://support.mozilla.org/kb/firefox-health-report-understand-your-android-browser-perf
+# banner.3.text
+;Firefox Health Report determines how well your browser is performing and what you can do to improve it. Learn more »
+Firefox Health Report determines how well your browser is performing and what you can do to improve it. Learn more »
+
+
+# https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
+# banner.4.text
+;Discover how Firefox for Android automatically blocks unsecure or mixed content from otherwise secure Web pages »
+Discover how Firefox for Android automatically blocks unsecure or mixed content from otherwise secure Web pages »
+
+
+# https://support.mozilla.org/kb/share-your-android-device-firefox-guest-session
+# banner.5.text
+;A guest session allows someone else to use your Firefox without giving them access to your personal information. Learn more »
+A guest session allows someone else to use your Firefox without giving them access to your personal information. Learn more »
+
+
+# https://support.mozilla.org/kb/mobile-private-browsing-browse-web-without-saving-syncing-info
+# banner.6.text
+;Browse the Internet without having any of your personal browsing data or history being saved. Learn more »
+Browse the Internet without having any of your personal browsing data or history being saved. Learn more »
+
+
+
+# welcome.firefoxPrivacyCoach
+;Firefox Privacy Coach
+Firefox Privacy Coach
+
+
+# welcome.byMozilla
+;by Mozilla
+by Mozilla
+
+
+# welcome.intro
+;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
+Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
+
+
+# prefs.title
+;Privacy Preferences
+Privacy Preferences
+
+
+# prefs.intro
+;Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
+Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
+
+
+# prefs.dnt.name
+;Do Not Track
+Do Not Track
+
+
+# prefs.dnt.desc
+;This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
+This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
+
+
+# prefs.dnt.learnMore
+;Learn more about Do Not Track
+Learn more about Do Not Track
+
+
+# prefs.cookies.name
+;Cookies
+Cookies
+
+
+# prefs.cookies.desc
+;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
+A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
+
+
+# prefs.cookies.learnMore
+;Learn more about Cookies
+Learn more about Cookies
+
+
+# prefs.fhr.name
+;Firefox Health Report
+Firefox Health Report
+
+
+# prefs.fhr.pre
+;Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our
+Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our
+
+
+# prefs.fhr.link
+;privacy policy
+privacy policy
+
+
+# prefs.fhr.post
+;.
+.
+
+
+# prefs.fhr.learnMore
+;Learn more about Firefox Health Report
+Learn more about Firefox Health Report
+
+
+# prefs.telemetry.name
+;Telemetry
+Telemetry
+
+
+# prefs.telemetry.desc
+;Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
+Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
+
+
+# prefs.telemetry.learnMore
+;Learn more about Telemetry
+Learn more about Telemetry
+
+
+# prefs.crash.name
+;Crash Reporter
+Crash Reporter
+
+
+# prefs.crash.desc
+;The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
+The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
+
+
+# prefs.crash.learnMore
+;Learn more about Crash Reporter
+Learn more about Crash Reporter
+
+
+# prefs.mls.name
+;Mozilla Location Services
+Mozilla Location Services
+
+
+# prefs.mls.desc
+;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
+Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
+
+
+# features.title
+;Privacy Features
+Privacy Features
+
+
+# features.intro
+;In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
+In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
+
+
+# features.pb.title
+;Private Browsing
+Private Browsing
+
+
+# features.pb.desc
+;When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
+When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
+
+
+# features.pb.learnMore
+;Learn more about Private Browsing
+Learn more about Private Browsing
+
+
+# features.gb.title
+;Guest Browsing
+Guest Browsing
+
+
+# features.gb.desc
+;A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
+A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
+
+
+# features.gb.learnMore
+;Learn more about Guest Browsing
+Learn more about Guest Browsing
+
+
+# features.ch.title
+;Clear History and other data
+Clear History and other data
+
+
+# features.ch.desc
+;Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
+Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
+
+
+# features.ch.learnMore
+;Learn how to clear your history
+Learn how to clear your history
+
+
+# httpsSearch.title
+;HTTPS Search
+HTTPS Search
+
+
+# httpsSearch.intro
+;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
+To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
+
+
+# addons.title
+;Additional Add-ons
+Additional Add-ons
+
+
+# addons.description
+;We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
+We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
+
+
+# addons.ghostery.title
+;Ghostery
+Ghostery
+
+
+# addons.ghostery.description
+;Protects your privacy by letting you see who's tracking your Web browsing and block them.
+Protects your privacy by letting you see who's tracking your Web browsing and block them.
+
+
+# addons.https.title
+;HTTPS Everywhere
+HTTPS Everywhere
+
+
+# addons.https.description
+;Encrypts your communications with many major websites, making your browsing more secure.
+Encrypts your communications with many major websites, making your browsing more secure.
+
+
+# addons.sdc.title
+;Self Destructing Cookies
+Self Destructing Cookies
+
+
+# addons.sdc.description
+;Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
+Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
+
+
+# addons.more.pre
+;For even more, you can explore our full set of
+For even more, you can explore our full set of
+
+
+# addons.more.link
+;Security &amp; Privacy add-ons »
+Security &amp; Privacy add-ons »
+
+
+# addons.more.post
+
+
+
+# settingsButton.privacy
+;Privacy Settings
+Privacy Settings
+
+
+# settingsButton.mozilla
+;Mozilla Settings
+Mozilla Settings
+
+
+# settingsButton.search
+;Search Settings
+Search Settings
+
+
+# features.learnMore
+;Learn More
+Learn More
+
