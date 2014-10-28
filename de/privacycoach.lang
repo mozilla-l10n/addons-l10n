@@ -162,7 +162,7 @@ Telemetrie
 
 
 ;Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
-Telemetrie misst und sammelt nicht personenbezogene Daten über die Leistung Ihres Firefox-Browsers – wie Speicherverbrauch, Browser-Geschwindigkeit und Nutzung der Funktionen – und sendet sie an Mozilla. Diese Daten werden dann von uns verwendet, um Firefox für Sie noch besser zu machen.
+Telemetrie misst und sammelt keine auf Sie bezogenen Daten, sondern solche über die Leistung Ihres Firefox-Browsers – wie Speicherverbrauch, Browser-Geschwindigkeit und Nutzung der Funktionen – und sendet sie an Mozilla. Diese Daten werden dann von uns verwendet, um Firefox für Sie noch besser zu machen.
 
 
 ;Learn more about Telemetry
@@ -186,7 +186,7 @@ Mozilla-Standortdienste
 
 
 ;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
-Mozilla-Standortdienste geben ungefähre WLAN- und Mobilfunkstandorte an Mozilla weiter, um unseren Geolokationsdienst zu verbessern.
+Mozilla-Standortdienste geben ungefähre WLAN- und Mobilfunkstandorte an Mozilla weiter, um unseren Standortdienst zu verbessern.
 
 
 ;Privacy Features
@@ -227,7 +227,7 @@ Chronik und andere Daten löschen
 
 
 ;Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
-Löschen Sie einfach Ihre persönlichen Daten, wie Surf-Chronik, Passwörter und mehr wann immer Sie möchten. In Ihren Datenschutzeinstellungen können Sie auch auswählen, ob private Daten immer gelöscht werden sollen, wenn Sie „Beenden“ aus dem Hauptmenü wählen.
+Löschen Sie einfach Ihre persönlichen Daten, wie Surf-Chronik, Passwörter und mehr, wann immer Sie möchten. In Ihren Datenschutzeinstellungen können Sie auch auswählen, ob private Daten immer gelöscht werden sollen, wenn Sie „Beenden“ aus dem Hauptmenü wählen.
 
 
 # Title
@@ -236,7 +236,7 @@ HTTPS-Suche
 
 
 ;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
-Damit Ihre Suchen im Internet privat bleiben, empfehlen wir, nur Suchmaschinen zu verwenden, die das sichere Kommunikationsprotokoll HTTPS unterstützen. Um Ihnen bei der Auswahl zu helfen, fragt Sie Firefox, bevor Sie eine Suche über ein ungesichertes HTTP-Netzwerk durchführen. Firefox warnt Sie auch, wenn Sie eine HTTP-Suchmaschine zum Standard machen wollen. Sie können Ihre Standardsuchmaschine jederzeit auf der Seite der Sucheinstellungen ändern.
+Damit Ihre Suchen im Internet privat bleiben, empfehlen wir, nur Suchmaschinen zu verwenden, die das sichere Kommunikationsprotokoll HTTPS unterstützen. Um Ihnen bei der Auswahl zu helfen, fragt Sie Firefox, bevor Sie eine Suche über eine ungesicherte HTTP-Verbindung durchführen. Firefox warnt Sie auch, wenn Sie eine HTTP-Suchmaschine zum Standard machen wollen. Sie können Ihre Standardsuchmaschine jederzeit auf der Seite der Sucheinstellungen ändern.
 
 
 # Title
@@ -250,7 +250,7 @@ Wir hoffen, dass Ihnen der Firefox-Datenschutzhelfer geholfen hat und Sie die vi
 
 # Description for 'Ghostery' add-on
 ;Protects your privacy by letting you see who's tracking your Web browsing and block them.
-Schützt Ihre Privatsphäre, indem es Ihnen zeigt, wer Ihr Surf-Verhalten verfolgt und blocken kann.
+Schützt Ihre Privatsphäre, indem es Ihnen zeigt, wer Ihr Surf-Verhalten verfolgt und diese blockiert.
 
 
 # Description for 'HTTPS Everywhere' add-on
@@ -260,7 +260,7 @@ Verschlüsselt Ihre Kommunikation mit vielen großen Websites, was Ihr Surfen no
 
 # Description for 'Self Destructing Cookies' add-on
 ;Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
-Beseitigt beim Schließen geöffneter Tabs die Cookies und lokal gespeicherte Objekte für diese Website. Es schützt außerdem gegen Tracker und Zombie-Cookies und bietet eine Positivliste für Dienste, denen Sie vertrauen.
+Beseitigt beim Schließen von Tabs die Cookies und lokal gespeicherte Objekte für diese Website. Es schützt außerdem gegen Tracker und Zombie-Cookies und bietet eine Positivliste für Dienste, denen Sie vertrauen.
 
 
 ;For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
