@@ -109,7 +109,7 @@ von Mozilla
 
 
 ;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
-Willkommen beim Datenschutzhelfer, Ihrer Komplettlösung, bei der Sie alles über die Datenschutzeinstellungen Ihres Firefox’ für Android erfahren und wo Sie diese verwalten können. Sie können diese Seite jederzeit wieder aufrufen, indem Sie das Extras-Menü in Ihrem Browser öffnen.
+Willkommen beim Datenschutzhelfer, Ihrer Komplettlösung, bei der Sie alles über die Datenschutzeinstellungen Ihres Firefox für Android erfahren und wo Sie diese verwalten können. Sie können diese Seite jederzeit wieder aufrufen, indem Sie das Extras-Menü in Ihrem Browser öffnen.
 
 
 # Title for preferences
@@ -122,7 +122,7 @@ Mit Firefox können Sie verschiedene Einstellungen anpassen, um dadurch Ihr Surf
 
 
 ;Do Not Track
-Do Not Track {ok}
+Aktivitätenverfolgung
 
 
 ;This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
@@ -130,7 +130,7 @@ Diese Firefox-Innovation hilft Ihnen dabei, die Kontrolle über die Sammlung und
 
 
 ;Learn more about Do Not Track
-Erfahren Sie mehr über Do Not Track
+Erfahren Sie mehr über Aktivitätenverfolgung
 
 
 ;Cookies
@@ -231,7 +231,7 @@ Löschen Sie einfach Ihre persönlichen Daten, wie Surf-Chronik, Passwörter und
 
 
 ;Learn how to clear your history
-Learn how to clear your history
+Erfahren Sie, wie Sie Ihre Chronik löschen
 
 
 # Title
@@ -254,7 +254,7 @@ Wir hoffen, dass Ihnen der Firefox-Datenschutzhelfer geholfen hat und Sie die vi
 
 # Description for 'Ghostery' add-on
 ;Protects your privacy by letting you see who's tracking your Web browsing and block them.
-Schützt Ihre Privatsphäre, indem es Ihnen zeigt, wer Ihr Surf-Verhalten verfolgt und diese blockiert.
+Schützt Ihre Privatsphäre, indem es Ihnen zeigt, wer Ihr Surf-Verhalten verfolgt, und diese blockiert.
 
 
 # Description for 'HTTPS Everywhere' add-on
