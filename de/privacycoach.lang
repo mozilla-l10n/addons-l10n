@@ -12,7 +12,7 @@ Datenschutzhelfer
 
 
 ;Don't ask me again for %S
-Bei %S nicht erneut nachfragen
+Für %S nicht mehr fragen
 
 
 # Default warning message
@@ -70,32 +70,32 @@ Ihre Standardsuchmaschine (%S) verwendet kein HTTPS – Sie sollten überlegen, 
 
 # Link to https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-dat
 ;Discover all the ways you can clear your personal browsing data from Firefox »
-Entdecken Sie alle Möglichkeiten, wie Sie Ihre persönlichen Surf-Daten aus Firefox löschen können »
+Entdecken Sie alle Möglichkeiten, wie Sie Ihre persönlichen Surf-Daten aus Firefox löschen können. »
 
 
 # Link to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 ;Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
-Erfahren Sie, wie Sie sichere, einfach zu merkende Passwörter erstellen, um Ihre Online-Identität zu schützen »
+Erfahren Sie, wie Sie sichere, einfach zu merkende Passwörter erstellen, um Ihre Online-Identität zu schützen. »
 
 
 # Link to https://support.mozilla.org/kb/firefox-health-report-understand-your-android-browser-perf
 ;Firefox Health Report determines how well your browser is performing and what you can do to improve it. Learn more »
-Der Firefox-Statusbericht stellt fest, wie gut die Leistung Ihres Browsers ist und wie Sie sie verbessern können. Erfahren Sie mehr »
+Der Firefox-Statusbericht stellt fest, wie gut die Leistung Ihres Browsers ist und wie Sie sie verbessern können. Erfahren Sie mehr. »
 
 
 # Link to https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
 ;Discover how Firefox for Android automatically blocks unsecure or mixed content from otherwise secure Web pages »
-Entdecken Sie, Firefox für Android automatisch unsichere oder gemischte Inhalte von ansonsten sicheren Webseiten blockiert »
+Entdecken Sie, wie Firefox für Android automatisch unsichere oder gemischte Inhalte auf ansonsten sicheren Webseiten blockiert. »
 
 
 # Link to https://support.mozilla.org/kb/share-your-android-device-firefox-guest-session
 ;A guest session allows someone else to use your Firefox without giving them access to your personal information. Learn more »
-Mit einer Gastsitzung kann jemand anderes Ihren Firefox verwenden, ohne dabei auf Ihre persönlichen Daten zugreifen zu können. Erfahren Sie mehr »
+Mit einer Gastsitzung kann jemand anderes Ihren Firefox verwenden, ohne dabei auf Ihre persönlichen Daten zugreifen zu können. Erfahren Sie mehr. »
 
 
 # Link to https://support.mozilla.org/kb/mobile-private-browsing-browse-web-without-saving-syncing-info
 ;Browse the Internet without having any of your personal browsing data or history being saved. Learn more »
-Surfen Sie im Internet, ohne dass irgendwelche persönlichen Surf-Daten oder die Chronik gespeichert werden. Erfahren Sie mehr »
+Surfen Sie im Internet, ohne dass irgendwelche persönlichen Surf-Daten oder die Chronik gespeichert werden. Erfahren Sie mehr. »
 
 
 # Welcome title
@@ -109,7 +109,7 @@ von Mozilla
 
 
 ;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
-Willkommen beim Datenschutzhelfer, Ihre Komplettlösung, bei der Sie alles über die Datenschutzeinstellungen Ihres Firefox’ für Android erfahren und wo Sie diese verwalten können. Sie können diese Seite jederzeit wieder aufrufen, indem Sie das Extras-Menü in Ihrem Browser öffnen.
+Willkommen beim Datenschutzhelfer, Ihrer Komplettlösung, bei der Sie alles über die Datenschutzeinstellungen Ihres Firefox’ für Android erfahren und wo Sie diese verwalten können. Sie können diese Seite jederzeit wieder aufrufen, indem Sie das Extras-Menü in Ihrem Browser öffnen.
 
 
 # Title for preferences
@@ -118,7 +118,7 @@ Datenschutzeinstellungen
 
 
 ;Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
-Mit Firefox können Sie verschiedene Einstellungen anpassen, um dadurch Ihr Surf-Erlebnis so privat und sicher wie möglich zu machen. Wir haben diese Einstellungsliste aufgeteilt, um deren Funktion zu erklären und um Ihnen bei der Wahl der für Sie richtigen Einstellungen zu helfen.
+Mit Firefox können Sie verschiedene Einstellungen anpassen, um dadurch Ihr Surf-Erlebnis so privat und sicher wie möglich zu machen. Wir haben diese Einstellungsliste zusammengestellt, um deren Funktion zu erklären und um Ihnen bei der Wahl der für Sie richtigen Einstellungen zu helfen.
 
 
 ;Do Not Track
@@ -138,7 +138,7 @@ Cookies {ok}
 
 
 ;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
-Ein Cookie ist eine auf Ihrem Rechner gespeicherte Information über die von Ihnen besuchten Websites. Dritt-Cookies stammen von einer Website, die nicht der entspricht, auf der Sie sich gerade befinden. Manche Werbtreibende verwenden diese Arten von Cookies, um Ihre Besuche auf den Websites zu verfolgen, auf denen sie Werbung schalten. Firefox verfügt über Einstellungen, mit denen Sie Anfragen zum Speichern von Cookies annehmen oder ablehnen, Cookies automatisch löschen und mehr tun können.
+Ein Cookie ist eine auf Ihrem Rechner gespeicherte Information über die von Ihnen besuchten Websites. Dritt-Cookies stammen von einer Website, die nicht der entspricht, auf der Sie sich gerade befinden. Manche Werbetreibende verwenden diese Arten von Cookies, um Ihre Besuche auf den Websites zu verfolgen, auf denen sie Werbung schalten. Firefox verfügt über Einstellungen, mit denen Sie Anfragen zum Speichern von Cookies annehmen oder ablehnen, Cookies automatisch löschen und mehr tun können.
 
 
 ;Learn more about Cookies
@@ -264,7 +264,7 @@ Beseitigt beim Schließen geöffneter Tabs die Cookies und lokal gespeicherte Ob
 
 
 ;For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
-Noch mehr finden Sie in unserer vollständigen Liste der <a>Sicherheits- &amp; Datenschutz-Add-ons »</a>
+Noch mehr finden Sie in unserer vollständigen Liste der <a>Sicherheits- &amp; Datenschutz-Add-ons »</a>.
 
 
 # Button for privacy settings
@@ -288,6 +288,6 @@ Weitere Informationen
 
 # This is the description of the extension for the Add-on manager
 ;Add-on that helps you use privacy features in your browser.
-Add-on that helps you use privacy features in your browser.
+Add-on, das Sie bei der Verwendung der Datenschutzfunktionen Ihres Browsers unterstützt.
 
 
