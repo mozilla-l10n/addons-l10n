@@ -170,19 +170,9 @@ Learn more about Cookies
 Firefox Health Report
 
 
-# prefs.fhr.pre
-;Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our
-Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our
+;Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
+Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
 
-
-# prefs.fhr.link
-;privacy policy
-privacy policy
-
-
-# prefs.fhr.post
-;.
-.
 
 
 # prefs.fhr.learnMore
@@ -335,18 +325,8 @@ Self Destructing Cookies
 Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
 
 
-# addons.more.pre
-;For even more, you can explore our full set of
-For even more, you can explore our full set of
-
-
-# addons.more.link
-;Security &amp; Privacy add-ons »
-Security &amp; Privacy add-ons »
-
-
-# addons.more.post
-
+;For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
+For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
 
 
 # settingsButton.privacy
