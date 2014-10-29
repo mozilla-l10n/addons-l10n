@@ -3,134 +3,134 @@
 
 # Title of the Application
 ;Privacy Coach
-Privacy Coach
+Privacy Coach {OK}
 
 
 # Warns you if your search engine (%S is the search engine name) ddesn't use HTTPS
 ;%S doesn't use https. Are you sure you want to continue?
-%S doesn't use https. Are you sure you want to continue?
+%S 未使用 https，您確定要繼續嗎？
 
 
 ;Don't ask me again for %S
-Don't ask me again for %S
+不要再問我 %S 的問題
 
 
 # Default warning message
 ;%S doesn't use https. You may want to change your default.
-%S doesn't use https. You may want to change your default.
+%S 未使用 https，您可能想要修改預設搜尋引擎。
 
 
 # Add engine warning message
 ;%S doesn't use https. Are you sure you want to add this search engine?
-%S doesn't use https. Are you sure you want to add this search engine?
+%S 未使用 https，您確定要新增這個搜尋引擎嗎？
 
 
 # Do Not Track preference: Not set
 ;Do not tell sites anything about my tracking preferences
-Do not tell sites anything about my tracking preferences
+不要告訴網站我的追蹤偏好
 
 
 # Do Not Track preference: No
 ;Tell sites that I do not want to be tracked
-Tell sites that I do not want to be tracked
+告訴網站我<b>不想</b>被追蹤
 
 
 # Do Not Track preference: Yes
 ;Tell sites that I want to be tracked
-Tell sites that I want to be tracked
+告訴網站我<b>想</b>被追蹤
 
 
 # Cookie preference, first party only
 ;Enabled, excluding 3rd party
-Enabled, excluding 3rd party
+已啟用，排除第三方
 
 
 # Preference enabled
 ;Enabled
-Enabled
+已啟用
 
 
 # Preference disabled
 ;Disabled
-Disabled
+已停用
 
 
 # Current value for a preference
 ;Current setting: %S
-Current setting: %S
+目前設定: %S
 
 
 ;Your default search engine (%S) uses HTTPS. Search away!
-Your default search engine (%S) uses HTTPS. Search away!
+您的預設搜尋引擎 (%S) 使用 HTTPS，請安心搜尋！
 
 
 ;Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
-Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
+您的預設搜尋引擎 (%S) 未使用 HTTPS — 您應該考慮改用別的搜尋引擎。
 
 
 # Link to https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-dat
 ;Discover all the ways you can clear your personal browsing data from Firefox »
-Discover all the ways you can clear your personal browsing data from Firefox »
+了解能夠清除 Firefox 當中您所有的個人瀏覽資料的方式 »
 
 
 # Link to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 ;Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
-Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
+了解如何建立安全又容易記得的密碼，以確保您的線上身分安全 »
 
 
 # Link to https://support.mozilla.org/kb/firefox-health-report-understand-your-android-browser-perf
 ;Firefox Health Report determines how well your browser is performing and what you can do to improve it. Learn more »
-Firefox Health Report determines how well your browser is performing and what you can do to improve it. Learn more »
+您可透過 Firefox 健康檢查報告判斷瀏覽器表現如何，您又可做什麼來改善效能。了解更多 »
 
 
 # Link to https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
 ;Discover how Firefox for Android automatically blocks unsecure or mixed content from otherwise secure Web pages »
-Discover how Firefox for Android automatically blocks unsecure or mixed content from otherwise secure Web pages »
+了解 Firefox for Android 如何自動封鎖不安全或混合內容 »
 
 
 # Link to https://support.mozilla.org/kb/share-your-android-device-firefox-guest-session
 ;A guest session allows someone else to use your Firefox without giving them access to your personal information. Learn more »
-A guest session allows someone else to use your Firefox without giving them access to your personal information. Learn more »
+訪客瀏覽階段能讓別人使用您的 Firefox，而不需擔心個人資訊會被洩漏。了解更多 »
 
 
 # Link to https://support.mozilla.org/kb/mobile-private-browsing-browse-web-without-saving-syncing-info
 ;Browse the Internet without having any of your personal browsing data or history being saved. Learn more »
-Browse the Internet without having any of your personal browsing data or history being saved. Learn more »
+瀏覽網路，而不讓您任何個人瀏覽資料或瀏覽紀錄被儲存下來。了解更多 »
 
 
 # Welcome title
 ;Firefox Privacy Coach
-Firefox Privacy Coach
+Firefox Privacy Coach {OK}
 
 
 # Welcome sub-title
 ;by Mozilla
-by Mozilla
+by Mozilla {OK}
 
 
 ;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
-Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
+歡迎使用 Privacy Coach，這是讓您了解與控管您 Firefox for Android 隱私設定的單一窗口。您可以隨時在瀏覽器中開啟工具選單回到這個頁面。
 
 
 # Title for preferences
 ;Privacy Preferences
-Privacy Preferences
+隱私偏好設定
 
 
 ;Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
-Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
+Firefox 讓您可以調整一些設定，讓您的瀏覽體驗更加私密、安全。我們在下面列出這些偏好設定並解釋其功能，來幫助您決定要如何設定。
 
 
 ;Do Not Track
-Do Not Track
+Do Not Track {OK}
 
 
 ;This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
-This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
+這個 Firefox 的創新幫助您能控制您的瀏覽資訊被如何收集、使用。開啟此功能後，Firefox 將告訴廣告網路、網站與應用程式您不想被行為廣告等方式追蹤您的上網行為。
 
 
 ;Learn more about Do Not Track
-Learn more about Do Not Track
+了解 Do Not Track 的更多資訊
 
 
 ;Cookies
@@ -138,160 +138,160 @@ Cookies
 
 
 ;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
-A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
+Cookie 是您曾開啟過的網站儲存在您電腦上的資訊。而第三方 Cookie 是由不在您目前所在網站所儲存的 Cookie。一些廣告商會使用這些 Cookies 來追蹤您在它們投放廣告的網站的瀏覽情況。Firefox 當中有個選項，可讓您允許或拒絕儲存 Cookie 的請求、自動刪除 Cookies 等等。
 
 
 ;Learn more about Cookies
-Learn more about Cookies
+了解 Cookies 的更多資訊
 
 
 ;Firefox Health Report
-Firefox Health Report
+Firefox 健康檢查報告
 
 
 ;Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
-Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
+Firefox 健康檢查報告提供您自首次使用以來，您瀏覽器的效能與穩定度。然後依照收集到的資料，提供您一些秘訣來幫助您完全發揮瀏覽器的威力。若需關於我們如何處理您的資料的相關資訊，請見我們的<a>隱私權保護政策</a>。
 
 
 ;Learn more about Firefox Health Report
-Learn more about Firefox Health Report
+了解 Firefox 健康檢查報告的更多資訊
 
 
 ;Telemetry
-Telemetry
+Telemetry {OK}
 
 
 ;Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
-Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
+Telemetry 會測量並收集關於您 Firefox 瀏覽器與效能相關的非個人資訊：例如記憶體使用量、瀏覽速度與功能使用情況，並回報給 Mozilla。該資訊將用來幫助我們為您改善 Firefox。
 
 
 ;Learn more about Telemetry
-Learn more about Telemetry
+了解 Telemetry 的更多資訊
 
 
 ;Crash Reporter
-Crash Reporter
+錯誤回報員
 
 
 ;The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
-The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
+錯誤回報員讓您可以送出錯誤報告給 Mozilla，以幫助我們讓 Firefox 變得更穩定、更安全。錯誤報告中可能會包含一些個人資料，例如您曾開啟過的網址。
 
 
 ;Learn more about Crash Reporter
-Learn more about Crash Reporter
+了解錯誤回報員的更多資訊
 
 
 ;Mozilla Location Services
-Mozilla Location Services
+Mozilla Location Services {OK}
 
 
 ;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
-Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
+Mozilla Location Services 會回報您所在位置附近大略的 Wi-Fi 與行動網路基地台位置給 Mozilla 以幫助我們改善我們的地理訂位服務。
 
 
 ;Privacy Features
-Privacy Features
+隱私保護相關功能
 
 
 ;In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
-In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
+除了以上可調整的隱私偏好設定，Firefox 還內建了一些保護您隱私的功能，讓您可以在日常生活中使用，並幫助您保護個人瀏覽資料的隱私。
 
 
 ;Private Browsing
-Private Browsing
+隱私瀏覽
 
 
 ;When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
-When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
+開啟隱私瀏覽分頁後，Firefox for Android 將不會接受 Cookies、記得您上網輸入的密碼或瀏覽紀錄。您可以透過點擊瀏覽器選單圖示，並選擇「開新隱私瀏覽分頁」來開啟隱私瀏覽階段。
 
 
 ;Learn more about Private Browsing
-Learn more about Private Browsing
+了解隱私瀏覽的更多資訊
 
 
 ;Guest Browsing
-Guest Browsing
+訪客瀏覽
 
 
 ;A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
-A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
+訪客瀏覽階段可讓其他人使用您 Android 裝置上的 Firefox，而不會看到您的密碼、書籤、瀏覽紀錄等個人資訊。
 
 
 ;Learn more about Guest Browsing
-Learn more about Guest Browsing
+了解訪客瀏覽的更多資訊
 
 
 # Title
 ;Clear History and other data
-Clear History and other data
+清除瀏覽紀錄與其他資料
 
 
 ;Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
-Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
+隨時都能簡單地刪除您的瀏覽紀錄、密碼等個人資料。在您的隱私設定中，您可以指定在每次選擇主選單的「離開」時清除隱私資料。
 
 
 ;Learn how to clear your history
-Learn how to clear your history
+了解如何清除您的瀏覽紀錄
 
 
 # Title
 ;HTTPS Search
-HTTPS Search
+HTTPS 加密搜尋
 
 
 ;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
-To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
+為了確保您在線上瀏覽的隱私，我們推薦您只使用支援 HTTPS 加密搜尋的搜尋引擎。Firefox 也將在您的搜尋透過未加密的 HTTP 網路送出時提醒您，並在您將 HTTP 搜尋引擎設為預設值時警告您。您可以隨時在搜尋設定頁面更改您的預設搜尋引擎。
 
 
 # Title
 ;Additional Add-ons
-Additional Add-ons
+其他附加元件
 
 
 ;We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
-We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
+我們希望您覺得 Firefox Privacy Coach 有點幫助，並更加理解您瀏覽器中的隱私功能與相關設定。若您還想對您的瀏覽資料有更大程度的掌控，可以看看下面列出的幾套附加元件。
 
 
 # Description for 'Ghostery' add-on
 ;Protects your privacy by letting you see who's tracking your Web browsing and block them.
-Protects your privacy by letting you see who's tracking your Web browsing and block them.
+透過讓您看到誰在追蹤您的網頁瀏覽情形，並封鎖他們來保護您的隱私。
 
 
 # Description for 'HTTPS Everywhere' add-on
 ;Encrypts your communications with many major websites, making your browsing more secure.
-Encrypts your communications with many major websites, making your browsing more secure.
+加密您與許多知名網站間的通訊，讓您上網更安全。
 
 
 # Description for 'Self Destructing Cookies' add-on
 ;Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
-Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
+在您關閉頁面後，就丟掉該網站的所有 Cookies 與 LocalStorage。他也能保護您不受追蹤者及殭屍 Cookies 的追蹤，並讓您把信任的服務加入白名單。
 
 
 ;For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
-For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
+如果還要更多，您可以看看我們的<a>安全性與隱私權附加元件</a>的完整清單
 
 
 # Button for privacy settings
 ;Privacy Settings
-Privacy Settings
+隱私設定
 
 
 # Button for general Mozilla settings
 ;Mozilla Settings
-Mozilla Settings
+Mozilla 設定
 
 
 # Search button
 ;Search Settings
-Search Settings
+搜尋設定
 
 
 ;Learn More
-Learn More
+了解更多資訊
 
 
 # This is the description of the extension for the Add-on manager
 ;Add-on that helps you use privacy features in your browser.
-Add-on that helps you use privacy features in your browser.
+幫助您在瀏覽器中使用隱私功能的附加元件。
 
 
