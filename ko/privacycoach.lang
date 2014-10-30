@@ -1,0 +1,293 @@
+## NOTE: screenshot https://l10n.mozilla-community.org/~pascalc/screenshots/privacycoach/Firefox%20Privacy%20Coach.png
+
+# Title of the Application
+;Privacy Coach
+개인 정보 도우미
+
+# Warns you if your search engine (%S is the search engine name) ddesn't use HTTPS
+;%S does not use https. Are you sure you want to continue?
+%S는 HTTPS를 사용하지 않습니다. 정말 검색을 계속 하시겠습니까?
+
+
+;Do not ask me again for %S
+%S에 대해 다시 확인하지 않음
+
+
+# Default warning message
+;%S does not use https. You may want to change your default.
+%S는 HTTPS를 사용하지 않습니다. 기본 검색 엔진을 변경을 권합니다.
+
+
+# Add engine warning message
+;%S does not use https. Are you sure you want to add this search engine?
+%S는 HTTPS를 사용하지 않습니다. 정말 검색 엔진을 추가 하시겠습니까?
+
+
+# Do Not Track preference: Not set
+;Do not tell sites anything about my tracking preferences
+추적에 대한 설정도 사이트에 통지하지
+
+
+# Do Not Track preference: No
+;Tell sites that I do not want to be tracked
+웹 사이트에 추적 거부 요청
+
+
+# Do Not Track preference: Yes
+;Tell sites that I want to be tracked
+추적 허가 요청을 사이트에 통보
+
+
+# Cookie preference, first party only
+;Enabled, excluding 3rd party
+사용함 (타사 제외)
+
+
+# Preference enabled
+;Enabled
+사용함
+
+
+# Preference disabled
+;Disabled
+사용 안함
+
+
+# Current value for a preference
+;Current setting: %S
+현재 설정: %S
+
+
+;Your default search engine (%S) uses HTTPS. Search away!
+기본 검색 엔진(%S)은 HTTPS를 사용하고 있습니다. 충분히 활용합시다!
+
+
+;Your default search engine (%S) does not use HTTPS - you should consider changing it now.
+기본 검색 엔진(%S)은 HTTPS를 사용하지 않습니다. 지금 변경을 검토해야합니다.
+
+
+# Link to https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-dat
+;Discover all the ways you can clear your personal browsing data from Firefox »
+Firefox에서 개인 브라우징 데이터를 삭제하는 다양한 방법을 설명합니다 »
+
+
+# Link to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
+;Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
+인터넷에서 개인 정보를 보호하기 위해 안전하고 기억하기 쉬운 암호를 생성하는 방법을 알아보십시오 »
+
+
+# Link to https://support.mozilla.org/kb/firefox-health-report-understand-your-android-browser-perf
+;Improve your browser's performance with tips from your Firefox Health Report. Learn more »
+Firefox 건강 보고서에서 제공하는 정보에 따라 브라우저의 성능을 개선합시다. 자세한 정보 »
+
+
+# Link to https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
+;Discover how Firefox for Android blocks unsecure or mixed content from otherwise secure Web pages »
+안전한 페이지에 포함된 안전하지 않은 "혼합 콘텐츠"를 Android 버전에서 차단하는 방법을 설명합니다 »
+
+
+# Link to https://support.mozilla.org/kb/share-your-android-device-firefox-guest-session
+;Guest browsing is a great way to share your browser without sharing your private info. Learn more »
+손님 모드는 개인 정보를 공유하지 않고 브라우저를 사용하는 좋은 방법입니다. 자세한 정보 »
+
+
+# Link to https://support.mozilla.org/kb/mobile-private-browsing-browse-web-without-saving-syncing-info
+;Private browsing lets you search the Web without your personal data being stored. Learn more »
+사생활 보호 모드를 사용하면 개인 데이터를 저장하지 않고 웹 서핑을 할 수 있습니다. 자세한 정보 »
+
+
+# Welcome title
+;Firefox Privacy Coach
+Firefox 개인 정보 도우미
+
+
+# Welcome sub-title
+;by Mozilla
+Mozilla 제작
+
+
+;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
+개인 정보 도우미에  오신 것을 환영합니다. 이 서비스는 Firefox Android 버전의 개인 정보 설정을 이해하고 관리하기 위한 종합 도구입니다. 브라우저의 "도구"메뉴를 열면 언제든지 페이지에 돌아올 수 있습니다.
+
+
+# Title for preferences
+;Privacy Preferences
+개인 정보 설정
+
+
+;Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We've broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
+Firefox는 사용자의 브라우징 경험을 최대한 개인적으로 안전하도록 하기 위해 다양한 설정을 사용자 정의 할 수 있습니다. 그 일련의 설정을 분류하고 각각의 설정에서 할 수있는 일을 설명하기 때문에 어떤 설정이 여러분에게 맞는지 파악하는 데 도움이됩니다.
+
+
+;Do Not Track
+추적 금지요청(Do Not Track)
+
+
+;This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
+이것은 브라우징 정보가 온라인에서 어떻게 수집, 사용되는지를 사용자가 직접 관리 할 수 있도록 고안 된 Firefox 혁신적인 기능 중 하나입니다. 이 기능을 활성화하면 행동 타게팅 광고 등을 목적으로 한 추적을 원하지 않는다는 의사를 Firefox에서 광고 네트워크, 웹 사이트, 응용 프로그램에 전달됩니다.
+
+
+;Learn more about Do Not Track
+Do Not Track에 대한 자세한 정보
+
+
+;Cookies
+쿠키(Cookies)
+
+
+;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
+쿠키(Cookie)는 사용자의 컴퓨터에 저장되는 사이트에 대한 정보입니다. 타사 쿠키는  방문한 것과 다른 사이트에서 설정 한 것입니다. 일부 광고주는 그러한 Cookie를 사용하여 광고를 게재하고있는 사이트 간 방문을 추적하고 있습니다. Firefox는 Cookie의 저장 요청을 허용 또는 거부하거나 Cookie를 자동으로 제거 할 수있는 설정을 제공합니다.
+
+
+;Learn more about Cookies
+Cookie에 대한 자세한 정보
+
+
+;Firefox Health Report
+Firefox 건강 보고서
+
+
+;Firefox Health Report provides you with information about your browser's performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
+Firefox 건강 보고서는 브라우저의 성능과 안정성에 대한 장기적인 정보를 제공합니다. 또한 브라우징 경험을 최대한 활용할 수 있도록 데이터에 근거한 유용한 팁도 제공합니다. 사용자가 제공 한 데이터의 취급에 관해서는 Mozilla의 <a>개인 정보 보호 정책</a>에서 자세히 설명하고 있습니다.
+
+
+;Learn more about Firefox Health Report
+Firefox 건강 보고서에 대한 자세한 정보
+
+
+;Telemetry
+텔레미터
+
+
+;Telemetry measures and collects non-personal information about the performance of your Firefox browser - such as memory consumption, browser speed and feature usage - and sends it to Mozilla. That information is then used to help us make Firefox better for you.
+텔레미터(Telemetry)는 메모리 소비량 브라우저의 실행 속도, 기능 사용 등 사용자의 Firefox 브라우저의 성능에 관해서 개인 정보에 해당하지 않는 데이터를 평가, 수집, Mozilla에 보냅니다. 이러한 정보는 Firefox 개선에 도움이됩니다.
+
+
+;Learn more about Telemetry
+Telemetry 대한 자세한 정보
+
+
+;Crash Reporter
+문제점 보고서
+
+
+;The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
+문제점 보고서는 Firefox의 안정성과 안전성 개선에 도움이 되도록 Mozilla에 전송하는 기회를 사용자에게 제공합니다. 방문한 사이트의 URL 등 약간의 개인 데이터가 포함될 수 있습니다.
+
+
+;Learn more about Crash Reporter
+문제점 보고서에 대한 자세한 정보
+
+
+;Mozilla Location Services
+Mozilla 위치 정보 서비스
+
+
+;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
+Mozilla 위치 정보 서비스는 Mozilla가 제공하는 위치 정보 관련 서비스의 개선에 도움 수 있도록 Wi-Fi 액세스 포인트 및 기지국의 대략적인 위치를 Mozilla와 공유합니다.
+
+
+;Privacy Features
+개인 정보 보호 기능
+
+
+;In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
+Firefox는 사용자 정의 위의 개인 정보 설정뿐만 아니라, 개인 브라우징 데이터를 보호하기 위해 일상적으로 사용할 수있는 몇 가지 개인 정보 보호 기능을 제공합니다.
+
+
+;Private Browsing
+사생활 보호
+
+
+;When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
+사생활 보호 브라우징 탭이 열릴 때 Android 버전 Firefox는 방문한 사이트의 Cookie를 받아 암호 저장 기록의 기록을 전혀하지 않습니다. 개인 정보 보호 브라우징 세션을 시작하려면 브라우저의 메뉴 아이콘을 누르고 "새 개인 탭"을 선택합니다.
+
+
+;Learn more about Private Browsing
+사생활 보호에 대한 자세한 정보
+
+
+;Guest Browsing
+손님 모드
+
+
+;A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
+손님 모드 세션을 활용하면, 암호, 북마크, 히스토리 등 개인 정보를 노출하지 않고 단말에서 다른 사람에 Firefox를 사용 할 수 있습니다.
+
+
+;Learn more about Guest Browsing
+손님 모드에 대한 자세한 정보
+
+
+# Title
+;Clear History and other data
+방문 기록 및 데이터 삭제
+
+
+;Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
+검색 기록 및 비밀번호 등 개인 정보는 언제든지 쉽게 삭제할 수 있습니다. 개인 정보 보호 설정은 메인 메뉴에서 "종료"를 선택할 때마다 개인 데이터를 삭제하도록 설정할 수 있습니다.
+
+
+;Learn how to clear your history
+기록 삭제 방법 자세히 보기
+
+
+# Title
+;HTTPS Search
+HTTPS 검색
+
+
+;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
+온라인 검색시 개인 정보를 보호하기 위해 안전한 통신 프로토콜 인 HTTPS를 지원하는 검색 엔진 만 사용하는 것이 좋습니다. 수시로 정보를 제공하기 위해, Firefox는 안전하지 않은 HTTP 네트워크를 통해 검색이 이루어지기 전에 확인 화면을 표시합니다. 또한 HTTP 사이트를 기본 검색 엔진으로 설정하려고 한 경우에도 경고를 표시합니다. 기본 검색 엔진은 검색 설정 페이지에서 언제든지 변경할 수 있습니다.
+
+
+# Title
+;Additional Add-ons
+부가 기능 추가
+
+
+;We hope you've found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
+브라우저에서 제공하는 개인 정보 보호 관련 다양한 기능과 설정을 더 깊이 이해하는 데이 Firefox 개인 정보 도우미라고 있습니다. 개인 브라우징 데이터를보다 효율적으로 관리하고자하는 사람은 다음의 몇 가지 추가 기능을 체크해보십시오.
+
+
+# Description for 'Ghostery'add-on
+;Protects your privacy by letting you see who's tracking your Web browsing and block them.
+웹 브라우징을 누가 추적하고 있는지를 보여주고, 그들을 차단할 수 있도록하여 개인 정보를 보호합니다.
+
+
+# Description for 'HTTPS Everywhere'add-on
+;Encrypts your communications with many major websites, making your browsing more secure.
+많은 주요 사이트와의 통신을 암호화하고 검색을 보다 안전하게 합니다.
+
+
+# Description for 'Self Destructing Cookies'add-on
+;Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
+웹 사이트의 Cookie와 로컬 스토리지를 해당 페이지를 열려있는 탭을 닫을 때 삭제합니다. 또한 추적기와 좀비 Cookie를 금지하고 신뢰할 수있는 서비스를 화이트리스트에 추가 할 수있는 기능도 제공합니다.
+
+
+;For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
+이 밖에도 다양한 도구가 공개되어 있습니다. <a>보안 및 개인 정보 관련 추가»</a>
+
+
+# Button for privacy settings
+;Privacy Settings
+개인 정보 설정
+
+
+# Button for general Mozilla settings
+;Mozilla Settings
+Mozilla 설정
+
+
+# Search button
+;Search Settings
+검색 설정
+
+
+;Learn More
+자세히 보기
+
+
+# This is the description of the extension for the Add-on manager
+;Add-on that helps you use privacy features in your browser.
+브라우저의 개인 정보 보호 기능의 활용을 지원하는 기능입니다.

@@ -1,0 +1,36 @@
+## NOTE : Strings for Firefox Android add-on for the world cup, project at https://github.com/leibovic/world-cup-feed
+
+
+# Add-on description displayed in Firefox preferences
+;Adds a Goal.com feed to your Firefox for Android homepage.
+Android용 Firefox 홈 화면에 Goal.com 피드 추가합니다.
+
+
+# Label for add-ons option to change the version of the feed that appears in the panel
+;Select Country Edition
+언어 선택
+
+
+# Add-on option for international feed edition (contents in English)
+;International (English)
+인터내셔널(영문)
+
+
+# Link to help in add-on settings
+;Need help?
+도움말 보기
+
+
+# Prompt that opens after installing feed
+;Welcome to your Goal.com panel!
+Goal.com 패널에 오신 것을 환영합니다!
+
+
+# Prompt message
+;Which edition would you like to follow?
+표시 언어를 선택할까요?
+
+
+# prompt OK button
+;OK
+확인
