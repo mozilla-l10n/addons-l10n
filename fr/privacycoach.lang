@@ -1,5 +1,6 @@
 ## NOTE: screenshot https://l10n.mozilla-community.org/~pascalc/screenshots/privacycoach/Firefox%20Privacy%20Coach.png
 
+
 # Title of the Application
 ;Privacy Coach
 Votre Coach vie privée
@@ -85,7 +86,7 @@ Améliorez les performances de votre navigateur avec des astuces du bilan de san
 # Link to https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
 ;Discover how Firefox for Android blocks unsecure or mixed content from otherwise secure Web pages »
 Découvrez comment Firefox pour Android bloque les contenus non sécurisés de pages Web qui sinon seraient sécurisées&nbsp;»
-Découvrez comment Firefox pour Android bloque des pages qui sont pourtant sûres mais qui contiennent des contenus non sécurisés&nbsp;»
+
 
 # Link to https://support.mozilla.org/kb/share-your-android-device-firefox-guest-session
 ;Guest browsing is a great way to share your browser without sharing your private info. Learn more »
@@ -292,6 +293,5 @@ En savoir plus
 # This is the description of the extension for the Add-on manager
 ;Add-on that helps you use privacy features in your browser.
 Extension qui vous aide à maîtriser les fonctionnalités de protection de la vie privée de votre navigateur.
-
 
 
