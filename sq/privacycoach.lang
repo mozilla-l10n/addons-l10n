@@ -3,7 +3,7 @@
 
 # Title of the Application
 ;Privacy Coach
-Privacy Coach
+Privacy Coach{ok}
 
 
 # Warns you if your search engine (%S is the search engine name) ddesn't use HTTPS
@@ -37,12 +37,12 @@ Thuaju sajteve që nuk dua të më gjurmojnë
 
 # Do Not Track preference: Yes
 ;Tell sites that I want to be tracked
-Thuaju sajteve që nuk dua të gjurmojnë
+Thuaju sajteve që dua të më gjurmojnë
 
 
 # Cookie preference, first party only
 ;Enabled, excluding 3rd party
-E aktivizuar, hi palë të treta
+E aktivizuar, hiq palë të treta
 
 
 # Preference enabled
@@ -61,7 +61,7 @@ Rregullimi i tanishëm: %S
 
 
 ;Your default search engine (%S) uses HTTPS. Search away!
-Motori juaj parazgjedhje për kërkimet (%S) përdor HTTPS. Jepini kërkimeve!
+Motori juaj parazgjedhje për kërkimet (%S) përdor HTTPS. Jepini, kërkoni!
 
 
 ;Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
@@ -70,7 +70,7 @@ Motori juaj parazgjedhje për kërkimet (%S) nuk përdor HTTPS — do të duhej 
 
 # Link to https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-dat
 ;Discover all the ways you can clear your personal browsing data from Firefox »
-Zbuloni krejt rrugët me të cilat mund të pastroni tprej Firefox-it ë dhënat tuaja personale të shfletimeve »
+Zbuloni krejt rrugët me të cilat mund të pastroni prej Firefox-it të dhënat tuaja personale të shfletimeve »
 
 
 # Link to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
@@ -101,7 +101,7 @@ Shfletimi privat ju lejon të kërkoni në Web pa depozitim të të dhënave tua
 
 # Welcome title
 ;Firefox Privacy Coach
-Firefox Privacy Coach
+Firefox Privacy Coach{ok}
 
 
 # Welcome sub-title
@@ -110,7 +110,7 @@ nga Mozilla
 
 
 ;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
-Mirë se vini te Privacy Coach, vendi i duhur për t’u njohur dhe administruar rregullimet e privatësisë te Firefox-i për Android. Këtë faqe mund ta rivizitoni kur të doni, duke hapur menunë Mjete te shfletuesi juaj.
+Mirë se vini te Privacy Coach, vendi i duhur për të njohur dhe administruar rregullimet e privatësisë te Firefox-i për Android. Këtë faqe mund ta rivizitoni kur të doni, duke hapur menunë Mjete te shfletuesi juaj.
 
 
 # Title for preferences
@@ -127,7 +127,7 @@ Mos Më Gjurmo
 
 
 ;This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
-Kjo risi e Firefox-it ju lejon të ruani kontrolloni mbi se si grumbullohen dhe përdoren të dhënat e shfletimit tuaj. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
+Kjo risi e Firefox-it ju lejon të ruani kontrollin mbi se si grumbullohen dhe përdoren të dhënat e shfletimit tuaj. Kur veçoria është e aktivizuar, Firefox-i do t’u thotë rrjeteve të reklamave, sajteve web dhe zbatimeve se dëshironi të liheni jashtë nga gjurmimet e bëra në funksion të reklamave të bazuara në zakonet e përdoruesit.
 
 
 ;Learn more about Do Not Track
@@ -147,11 +147,11 @@ Mësoni më tepër rreth Cookie-ve
 
 
 ;Firefox Health Report
-Firefox Health Report
+Firefox Health Report{ok}
 
 
 ;Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
-Firefox Health Report ju furnizon të dhëna rreth punimit të shfletuesit dhe qëndrueshmërisë së tij përgjatë një rrjedhe kohore. Mandej, bazuar në këtë të dhëna, ju jep këshilla të dobishme për t’ju ndihmuar të përfitoni maksimumin prej punimit në shfletues. Për më tepër të dhëna rreth se si i trajtojmë të dhënat tuaja, shihni <a>rregullat tona mbi privatësinë</a>.
+Firefox Health Report ju furnizon të dhëna rreth punimit të shfletuesit dhe qëndrueshmërisë së tij përgjatë një rrjedhe kohore. Mandej, bazuar në këto të dhëna, ju jep këshilla të dobishme për t’ju ndihmuar të përfitoni maksimumin prej punimit në shfletues. Për më tepër të dhëna rreth se si i trajtojmë të dhënat tuaja, shihni <a>rregullat tona mbi privatësinë</a>.
 
 
 ;Learn more about Firefox Health Report
@@ -163,7 +163,7 @@ Telemetria
 
 
 ;Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
-Telemetria mat dhe grumbullon të dhëna jopresonale rreth punimit të shfletuesit tuaj Firefox — të tilla si sa kujtesë përdoret, shpejtësinë e shfletuesit dhe përdorimin e karakteristikave — dhe ia dërgon ato Mozilla-s. Këto të dhëna mandej përdoren për të na ndihmuar ta bëjmë edhe më të mirë Firefox-in.
+Telemetria mat dhe grumbullon të dhëna jopersonale rreth punimit të shfletuesit tuaj Firefox — të tilla si sa kujtesë përdoret, shpejtësinë e shfletuesit dhe përdorimin nga ai të karakteristikave — dhe ia dërgon ato Mozilla-s. Këto të dhëna mandej përdoren për të na ndihmuar ta bëjmë edhe më të mirë Firefox-in.
 
 
 ;Learn more about Telemetry
@@ -187,7 +187,7 @@ Shërbime Lokalizimi te Mozilla
 
 
 ;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
-Shërbimet e Lokalizimi te Mozilla ndajnë me Mozilla-n vendndodhje të përafërta sinjalesh Wi-Fi dhe celulari, për ta na ndihmuar të përmirësojmë shërbimin tonë të gjeolokalizimit.
+Shërbimet e Lokalizimit te Mozilla ndajnë me Mozilla-n vendndodhje të përafërta sinjalesh Wi-Fi dhe celulari, për të na ndihmuar të përmirësojmë shërbimin tonë të gjeolokalizimit.
 
 
 ;Privacy Features
@@ -195,7 +195,7 @@ Mekanizma Privatësie
 
 
 ;In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
-Përtej parapëlqimeve të rregullueshme mbi privatësinë më sipër, Firefox-i përmban gjithashtu edhe disa mekanizma privatësie që mund t’i përdorni përditë si ndihmë për t’i mbajtur private të dhënat tuaja personale të shfletimit.
+Përtej parapëlqimeve të rregullueshme mbi privatësinë më sipër, Firefox-i përmban gjithashtu edhe disa mekanizma privatësie që mund t’i përdorni përditë, si ndihmë për t’i mbajtur private të dhënat tuaja personale të shfletimit.
 
 
 ;Private Browsing
@@ -203,7 +203,7 @@ Shfletim Privat
 
 
 ;When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
-Kur hapen skeda Shfletimi Privat, Firefox-i për Android nuk do të pranojë cookie, nuk do të mbajë men fjalëkalime dhe as do të regjistrojë në historik gjë rreth çfarëdo sajti që vizituat. Një sesion Shfletimi Privat mund ta hapni duke prekur ikonën e menusë te shfletuesi juaj dhe duke përzgjedhur &quot;Skedë e Re Private&quot;.
+Kur hapen skeda Shfletimi Privat, Firefox-i për Android nuk do të pranojë cookie, nuk do të mbajë mend fjalëkalime dhe as do të regjistrojë në historik gjë rreth çfarëdo sajti që vizituat. Një sesion Shfletimi Privat mund ta hapni duke prekur ikonën e menusë te shfletuesi juaj dhe duke përzgjedhur &quot;Skedë e Re Private&quot;.
 
 
 ;Learn more about Private Browsing
@@ -215,7 +215,7 @@ Shfletim Si Mysafir
 
 
 ;A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
-Sesionet e Shfletimit Si Mysafir i lejojnë dikujt tjetër të përdorë Firefox-in në pajisjen tuaj Android pa mundur të shohë të dhëna tuajat personale, të tilla si fjalëkalime, faqerojtës dhe historik shfletimesh.
+Sesionet e Shfletimit Si Mysafir i lejojnë dikujt tjetër të përdorë Firefox-in në pajisjen tuaj Android, pa mundur të shohë të dhëna tuajat personale, të tilla si fjalëkalime, faqerojtës dhe historik shfletimesh.
 
 
 ;Learn more about Guest Browsing
@@ -241,7 +241,7 @@ Kërkime HTTPS
 
 
 ;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
-Për t’i mbajtur private kërkimet tuaja në linjë, këshillojmë përdorimin vetëm të motorëve të kërkimit që mbulojnë HTTPS-në, një protokoll komunikimesh të sigurta. Për t’ju ndihmuar të jeni në dijeni, Firefox-i do t’ju sinjalizojë përpara se të bëni një kërkim që kryhet përmes një rrjeti HTTP të pasigurt. Firefox-i do t’ju shfaqë gjithashtu një sinjalizim kur provoni ta kaloni si parazgjedhjen tuaj një motor kërkimesh HTTP. Motorin tuaj parazgjedhje për kërkimet mund ta ndërroni kur të doni, te faqja e rregullimeve mbi kërkimet.
+Për t’i mbajtur private kërkimet tuaja në linjë, këshillojmë përdorimin vetëm të motorëve të kërkimit që mbulojnë HTTPS-në, një protokoll komunikimesh të sigurta. Për t’ju ndihmuar të jeni në dijeni, Firefox-i do t’ju sinjalizojë përpara se të bëni një kërkim që kryhet përmes një rrjeti HTTP të pasigurt. Firefox-i do t’ju shfaqë gjithashtu një sinjalizim, kur provoni ta kaloni si parazgjedhjen tuaj një motor kërkimesh HTTP. Motorin tuaj parazgjedhje për kërkimet mund ta ndërroni kur të doni, te faqja e rregullimeve mbi kërkimet.
 
 
 # Title
@@ -260,7 +260,7 @@ Mbron privatësinë tuaj duke ju lejuar të shihni se kush po e gjurmon shfletim
 
 # Description for 'HTTPS Everywhere' add-on
 ;Encrypts your communications with many major websites, making your browsing more secure.
-Kodon komunikimet tuaja me mjaft nga sajtet e njohur we, duke e bërë shfletimin tuaj më të sigurt.
+Kodon komunikimet tuaja me mjaft nga sajtet e njohur web, duke e bërë shfletimin tuaj më të sigurt.
 
 
 # Description for 'Self Destructing Cookies' add-on
