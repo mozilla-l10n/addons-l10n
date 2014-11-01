@@ -8,94 +8,95 @@ Privacy Coach
 
 # Warns you if your search engine (%S is the search engine name) ddesn't use HTTPS
 ;%S doesn't use https. Are you sure you want to continue?
-%S doesn't use https. Are you sure you want to continue?
+%S nuk përdor https. Jeni i sigurt se doni të vazhdohet?
 
 
 ;Don't ask me again for %S
-Don't ask me again for %S
+Mos më pyet herë tjetër për %S
 
 
 # Default warning message
 ;%S doesn't use https. You may want to change your default.
-%S doesn't use https. You may want to change your default.
+%S nuk përdor https. Mund të dëshironit të ndryshoni parazgjedhjen tuaj.
 
 
 # Add engine warning message
 ;%S doesn't use https. Are you sure you want to add this search engine?
-%S doesn't use https. Are you sure you want to add this search engine?
+%S nuk përdor https. Jeni i sigurt se doni ta shtoni këtë motor kërkimesh?
 
 
 # Do Not Track preference: Not set
 ;Do not tell sites anything about my tracking preferences
-Do not tell sites anything about my tracking preferences
+Mos u trego gjë sajteve rreth parapëlqimeve të mia mbi gjurmimet
 
 
 # Do Not Track preference: No
 ;Tell sites that I do not want to be tracked
-Tell sites that I do not want to be tracked
+Thuaju sajteve që nuk dua të më gjurmojnë
 
 
 # Do Not Track preference: Yes
 ;Tell sites that I want to be tracked
-Tell sites that I want to be tracked
+Thuaju sajteve që nuk dua të gjurmojnë
 
 
 # Cookie preference, first party only
 ;Enabled, excluding 3rd party
-Enabled, excluding 3rd party
+E aktivizuar, hi palë të treta
 
 
 # Preference enabled
 ;Enabled
-Enabled
+E aktivizuar
 
 
 # Preference disabled
 ;Disabled
-Disabled
+E çaktivizuar
 
 
 # Current value for a preference
 ;Current setting: %S
-Current setting: %S
+Rregullimi i tanishëm: %S
 
 
 ;Your default search engine (%S) uses HTTPS. Search away!
-Your default search engine (%S) uses HTTPS. Search away!
+Motori juaj parazgjedhje për kërkimet (%S) përdor HTTPS. Jepini kërkimeve!
 
 
 ;Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
-Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
+Motori juaj parazgjedhje për kërkimet (%S) nuk përdor HTTPS — do të duhej të shihni mundësinë e ndërrimit të tij që tani.
 
 
 # Link to https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-dat
 ;Discover all the ways you can clear your personal browsing data from Firefox »
-Discover all the ways you can clear your personal browsing data from Firefox »
+Zbuloni krejt rrugët me të cilat mund të pastroni tprej Firefox-it ë dhënat tuaja personale të shfletimeve »
 
 
 # Link to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 ;Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
-Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
+Mësoni si të krijoni fjalëkalime të sigurt, që mbahen mend lehtë, për ta ruajtur të parrezikuar identitetin tuaj në linjë »
 
 
 # Link to https://support.mozilla.org/kb/firefox-health-report-understand-your-android-browser-perf
 ;Improve your browser’s performance with tips from your Firefox Health Report. Learn more »
-Improve your browser’s performance with tips from your Firefox Health Report. Learn more »
+Përmirësoni punimin e shfletuesit tuaj përmes ndihmëzash nga Firefox Health Report. Mësoni më tepër »
 
 
 # Link to https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
 ;Discover how Firefox for Android blocks unsecure or mixed content from otherwise secure Web pages »
-Discover how Firefox for Android blocks unsecure or mixed content from otherwise secure Web pages »
+Zbuloni se si Firefox-i për Android bllokon lëndë të pasigurt ose të përzierë, nga faqe Web përndryshe të sigurta »
 
 
 # Link to https://support.mozilla.org/kb/share-your-android-device-firefox-guest-session
 ;Guest browsing is a great way to share your browser without sharing your private info. Learn more »
-Guest browsing is a great way to share your browser without sharing your private info. Learn more »
+Shfletimi si mysafir është një rrugë e fuqishme për ta ndarë shfletuesin tuaj me të tjerët pa ndarë me ta të dhënat tuaja private. Mësoni më tepër »
 
 
 # Link to https://support.mozilla.org/kb/mobile-private-browsing-browse-web-without-saving-syncing-info
 ;Private browsing lets you search the Web without your personal data being stored. Learn more »
-Private browsing lets you search the Web without your personal data being stored. Learn more »
+Shfletimi privat ju lejon të kërkoni në Web pa depozitim të të dhënave tuaja personale. Mësoni më tepër »
+
 
 
 # Welcome title
@@ -105,44 +106,44 @@ Firefox Privacy Coach
 
 # Welcome sub-title
 ;by Mozilla
-by Mozilla
+nga Mozilla
 
 
 ;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
-Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
+Mirë se vini te Privacy Coach, vendi i duhur për t’u njohur dhe administruar rregullimet e privatësisë te Firefox-i për Android. Këtë faqe mund ta rivizitoni kur të doni, duke hapur menunë Mjete te shfletuesi juaj.
 
 
 # Title for preferences
 ;Privacy Preferences
-Privacy Preferences
+Parapëlqime Mbi Privatësinë
 
 
 ;Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
-Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
+Firefox-i ju lejon të përshtatni rregullime të ndryshme, si një përpjekje për ta bërë shfletimin tuaj sa më privat dhe të sigurt që mundet. Kemi krijuar këtë listë parapëlqimesh për të shpjeguar se çfarë bëjnë dhe për t’ju ndihmuar të kuptoni cilat janë ato që ju duhen.
 
 
 ;Do Not Track
-Do Not Track
+Mos Më Gjurmo
 
 
 ;This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
-This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
+Kjo risi e Firefox-it ju lejon të ruani kontrolloni mbi se si grumbullohen dhe përdoren të dhënat e shfletimit tuaj. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
 
 
 ;Learn more about Do Not Track
-Learn more about Do Not Track
+Mësoni më tepër rreth Mos Më Gjurmo-së
 
 
 ;Cookies
-Cookies
+Cookie-t
 
 
 ;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
-A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
+Cookie-t janë copëza të dhënash të depozituara në kompjuterin tuaj nga sajtet që vizitoni. Cookie palësh të treta janë ato të depozituara nga një sajt web tjetër nga ai ku ndodheni aktualisht. Disa reklamues i përdorin këto lloje cookie-sh për të ndjekur vizitat tuaja në sajte web te të cilët ata kanë reklama. Firefox-i ka rregullime që ju lejojnë të miratoni ose hidhni tej kërkesa për depozitim cookie-sh, të fshini cookie-t automatikisht, etj.
 
 
 ;Learn more about Cookies
-Learn more about Cookies
+Mësoni më tepër rreth Cookie-ve
 
 
 ;Firefox Health Report
@@ -150,148 +151,148 @@ Firefox Health Report
 
 
 ;Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
-Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
+Firefox Health Report ju furnizon të dhëna rreth punimit të shfletuesit dhe qëndrueshmërisë së tij përgjatë një rrjedhe kohore. Mandej, bazuar në këtë të dhëna, ju jep këshilla të dobishme për t’ju ndihmuar të përfitoni maksimumin prej punimit në shfletues. Për më tepër të dhëna rreth se si i trajtojmë të dhënat tuaja, shihni <a>rregullat tona mbi privatësinë</a>.
 
 
 ;Learn more about Firefox Health Report
-Learn more about Firefox Health Report
+Mësoni më tepër rreth Firefox Health Report
 
 
 ;Telemetry
-Telemetry
+Telemetria
 
 
 ;Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
-Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
+Telemetria mat dhe grumbullon të dhëna jopresonale rreth punimit të shfletuesit tuaj Firefox — të tilla si sa kujtesë përdoret, shpejtësinë e shfletuesit dhe përdorimin e karakteristikave — dhe ia dërgon ato Mozilla-s. Këto të dhëna mandej përdoren për të na ndihmuar ta bëjmë edhe më të mirë Firefox-in.
 
 
 ;Learn more about Telemetry
-Learn more about Telemetry
+Mësoni më tepër mbi Telemetrinë
 
 
 ;Crash Reporter
-Crash Reporter
+Njoftues Vithisjesh
 
 
 ;The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
-The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
+Njoftuesi i Vithisjeve ju jep mundësinë të parashtroni te Mozilla raporte vithisjesh, si një përpjekje për të na ndihmuar ta bëjmë Firefox-in më të qëndrueshëm dhe më të sigurt. Në një raport vithisjeje mund të përfshihen disa të dhëna personale, të tilla si URL-të që keni vizituar.
 
 
 ;Learn more about Crash Reporter
-Learn more about Crash Reporter
+Mësoni më tepër mbi Njoftuesin e Vithisjeve
 
 
 ;Mozilla Location Services
-Mozilla Location Services
+Shërbime Lokalizimi te Mozilla
 
 
 ;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
-Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
+Shërbimet e Lokalizimi te Mozilla ndajnë me Mozilla-n vendndodhje të përafërta sinjalesh Wi-Fi dhe celulari, për ta na ndihmuar të përmirësojmë shërbimin tonë të gjeolokalizimit.
 
 
 ;Privacy Features
-Privacy Features
+Mekanizma Privatësie
 
 
 ;In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
-In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
+Përtej parapëlqimeve të rregullueshme mbi privatësinë më sipër, Firefox-i përmban gjithashtu edhe disa mekanizma privatësie që mund t’i përdorni përditë si ndihmë për t’i mbajtur private të dhënat tuaja personale të shfletimit.
 
 
 ;Private Browsing
-Private Browsing
+Shfletim Privat
 
 
 ;When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
-When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
+Kur hapen skeda Shfletimi Privat, Firefox-i për Android nuk do të pranojë cookie, nuk do të mbajë men fjalëkalime dhe as do të regjistrojë në historik gjë rreth çfarëdo sajti që vizituat. Një sesion Shfletimi Privat mund ta hapni duke prekur ikonën e menusë te shfletuesi juaj dhe duke përzgjedhur &quot;Skedë e Re Private&quot;.
 
 
 ;Learn more about Private Browsing
-Learn more about Private Browsing
+Mësoni më tepër rreth Shfletimit Privat
 
 
 ;Guest Browsing
-Guest Browsing
+Shfletim Si Mysafir
 
 
 ;A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
-A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
+Sesionet e Shfletimit Si Mysafir i lejojnë dikujt tjetër të përdorë Firefox-in në pajisjen tuaj Android pa mundur të shohë të dhëna tuajat personale, të tilla si fjalëkalime, faqerojtës dhe historik shfletimesh.
 
 
 ;Learn more about Guest Browsing
-Learn more about Guest Browsing
+Mësoni më tepër mbi Shfletimin Si Mysafir
 
 
 # Title
 ;Clear History and other data
-Clear History and other data
+Pastroni Historikun dhe të dhëna të tjera
 
 
 ;Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
-Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
+Fshini kollaj të dhënat tuaja personale, të tilla si historik shfletimesh, fjalëkalime, etj., kurdo që dëshironi. Te rregullimet tuaja mbi privatësinë mundeni edhe të zgjidhni të pastrohen të dhënat private sa herë që përzgjidhni &quot;Dilni&quot; nga menuja kryesore.
 
 
 ;Learn how to clear your history
-Learn how to clear your history
+Mësoni si të pastroni historikun
 
 
 # Title
 ;HTTPS Search
-HTTPS Search
+Kërkime HTTPS
 
 
 ;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
-To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
+Për t’i mbajtur private kërkimet tuaja në linjë, këshillojmë përdorimin vetëm të motorëve të kërkimit që mbulojnë HTTPS-në, një protokoll komunikimesh të sigurta. Për t’ju ndihmuar të jeni në dijeni, Firefox-i do t’ju sinjalizojë përpara se të bëni një kërkim që kryhet përmes një rrjeti HTTP të pasigurt. Firefox-i do t’ju shfaqë gjithashtu një sinjalizim kur provoni ta kaloni si parazgjedhjen tuaj një motor kërkimesh HTTP. Motorin tuaj parazgjedhje për kërkimet mund ta ndërroni kur të doni, te faqja e rregullimeve mbi kërkimet.
 
 
 # Title
 ;Additional Add-ons
-Additional Add-ons
+Shtesa të Tjera
 
 
 ;We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
-We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
+Shpresojmë t’ju duket i dobishëm Firefox Privacy Coach-i dhe të keni tani një ide më të qartë mbi mjaft nga mekanizmat dhe rregullimet mbi privatësinë të shfletuesit tuaj. Nëse do të donit edhe më tepër kontroll mbi të dhënat tuaja personale të shfletimeve, hidhuni një sy disave prej shtesave të radhitura më poshtë.
 
 
 # Description for 'Ghostery' add-on
 ;Protects your privacy by letting you see who's tracking your Web browsing and block them.
-Protects your privacy by letting you see who's tracking your Web browsing and block them.
+Mbron privatësinë tuaj duke ju lejuar të shihni se kush po e gjurmon shfletimin tuaj në Web dhe t’i bllokoni ata.
 
 
 # Description for 'HTTPS Everywhere' add-on
 ;Encrypts your communications with many major websites, making your browsing more secure.
-Encrypts your communications with many major websites, making your browsing more secure.
+Kodon komunikimet tuaja me mjaft nga sajtet e njohur we, duke e bërë shfletimin tuaj më të sigurt.
 
 
 # Description for 'Self Destructing Cookies' add-on
 ;Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
-Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
+Pastron cookie-t dhe LocalStorage-in për një sajt, sapo mbyllni çfarëdo skede të hapur për atë faqe. Ju mbron gjithashtu kundër gjurmuesish dhe zombie-cookies, dhe ju bën të mundur të lejoni shërbime që i njihni për të besueshme.
 
 
 ;For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
-For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
+Për edhe më tepër, mund të eksploronit grupin tonë të plotë të <a>shtesave për Sigurinë &amp; Privatësinë »</a>
 
 
 # Button for privacy settings
 ;Privacy Settings
-Privacy Settings
+Rregullime Privatësie
 
 
 # Button for general Mozilla settings
 ;Mozilla Settings
-Mozilla Settings
+Rregullime Mozilla
 
 
 # Search button
 ;Search Settings
-Search Settings
+Rregullime Kërkimi
+
 
 
 ;Learn More
-Learn More
+Mësoni Më Tepër
 
 
 # This is the description of the extension for the Add-on manager
 ;Add-on that helps you use privacy features in your browser.
-Add-on that helps you use privacy features in your browser.
-
+Shtesë që ju lejon të përdorni veçori privatësie në shfletuesin tuaj.
 
