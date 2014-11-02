@@ -3,7 +3,7 @@
 
 # Title of the Application
 ;Privacy Coach
-Privacy Coach
+Privacy Coach {ok}
 
 
 # Warns you if your search engine (%S is the search engine name) ddesn't use HTTPS
@@ -27,17 +27,17 @@ Don't ask me again for %S
 
 # Do Not Track preference: Not set
 ;Do not tell sites anything about my tracking preferences
-Do not tell sites anything about my tracking preferences
+Neinformovat servery o mém nastavení, zda chci být sledován
 
 
 # Do Not Track preference: No
 ;Tell sites that I do not want to be tracked
-Tell sites that I do not want to be tracked
+Informovat servery, že nechci být sledován
 
 
 # Do Not Track preference: Yes
 ;Tell sites that I want to be tracked
-Tell sites that I want to be tracked
+Informovat servery, že můžu být sledován
 
 
 # Cookie preference, first party only
@@ -57,25 +57,25 @@ Disabled
 
 # Current value for a preference
 ;Current setting: %S
-Current setting: %S
+Aktuální nastavení: %S
 
 
 ;Your default search engine (%S) uses HTTPS. Search away!
-Your default search engine (%S) uses HTTPS. Search away!
+Váš výchozí vyhledávač (%S) využívá HTTPS. Můžete vesele vyhledávat!
 
 
 ;Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
-Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
+Váš výchozí vyhledávač (%S) nevyužívá HTTPS — měli byste zvážit jeho změnu.
 
 
 # Link to https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-dat
 ;Discover all the ways you can clear your personal browsing data from Firefox »
-Discover all the ways you can clear your personal browsing data from Firefox »
+Objevte všechny možnosti jak můžete vymazat svá osobní data o prohlížení z Firefoxu »
 
 
 # Link to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 ;Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
-Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
+Zjistěte, jak si vytvářit bezpečná a snadno zapamatovatelná hesla pro udržení své online identity v bezpečí »
 
 
 # Link to https://support.mozilla.org/kb/firefox-health-report-understand-your-android-browser-perf
@@ -100,12 +100,12 @@ Private browsing lets you search the Web without your personal data being stored
 
 # Welcome title
 ;Firefox Privacy Coach
-Firefox Privacy Coach
+Firefox Privacy Coach {ok}
 
 
 # Welcome sub-title
 ;by Mozilla
-by Mozilla
+od Mozilly
 
 
 ;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
@@ -114,7 +114,7 @@ Welcome to Privacy Coach, your one-stop shop to learn about and manage your Fire
 
 # Title for preferences
 ;Privacy Preferences
-Privacy Preferences
+Předvolby soukromí
 
 
 ;Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
@@ -122,7 +122,7 @@ Firefox allows you to customize various settings in an effort to make your brows
 
 
 ;Do Not Track
-Do Not Track
+Do Not Track {ok}
 
 
 ;This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
@@ -130,11 +130,11 @@ This Firefox innovation helps you stay in control of how your browsing informati
 
 
 ;Learn more about Do Not Track
-Learn more about Do Not Track
+Zjistěte více o Do Not Track
 
 
 ;Cookies
-Cookies
+Cookies {ok}
 
 
 ;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
@@ -142,7 +142,7 @@ A cookie is information stored on your computer about the websites you visit. Th
 
 
 ;Learn more about Cookies
-Learn more about Cookies
+Zjistěte více o cookies
 
 
 ;Firefox Health Report
@@ -158,7 +158,7 @@ Learn more about Firefox Health Report
 
 
 ;Telemetry
-Telemetry
+Telemetrie
 
 
 ;Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
@@ -166,7 +166,7 @@ Telemetry measures and collects non-personal information about the performance o
 
 
 ;Learn more about Telemetry
-Learn more about Telemetry
+Zjistěte více o telemetrii
 
 
 ;Crash Reporter
@@ -182,7 +182,7 @@ Learn more about Crash Reporter
 
 
 ;Mozilla Location Services
-Mozilla Location Services
+Mozilla Location Services {ok}
 
 
 ;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
@@ -198,7 +198,7 @@ In addition to the customizable privacy preferences above, Firefox also includes
 
 
 ;Private Browsing
-Private Browsing
+Anonymní prohlížení
 
 
 ;When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
@@ -206,7 +206,7 @@ When Private Browsing tabs are opened, Firefox for Android won’t accept cookie
 
 
 ;Learn more about Private Browsing
-Learn more about Private Browsing
+Zjistěte více o anonymním prohlížení
 
 
 ;Guest Browsing
@@ -236,7 +236,7 @@ Learn how to clear your history
 
 # Title
 ;HTTPS Search
-HTTPS Search
+HTTPS vyhledávání
 
 
 ;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
@@ -245,7 +245,7 @@ To keep your online searches private, we recommend only using search engines tha
 
 # Title
 ;Additional Add-ons
-Additional Add-ons
+Přídavné doplňky
 
 
 ;We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
@@ -273,21 +273,21 @@ For even more, you can explore our full set of <a>Security &amp; Privacy add-ons
 
 # Button for privacy settings
 ;Privacy Settings
-Privacy Settings
+Nastavení soukromí
 
 
 # Button for general Mozilla settings
 ;Mozilla Settings
-Mozilla Settings
+Nastavení Mozilly
 
 
 # Search button
 ;Search Settings
-Search Settings
+Nastavení vyhledávání
 
 
 ;Learn More
-Learn More
+Zjistěte více
 
 
 # This is the description of the extension for the Add-on manager
