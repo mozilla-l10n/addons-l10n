@@ -42,17 +42,17 @@
 
 # Cookie preference, first party only
 ;Enabled, excluding 3rd party
-Включено, за исключением сторонних
+Включены, за исключением сторонних
 
 
 # Preference enabled
 ;Enabled
-Включено
+Включены
 
 
 # Preference disabled
 ;Disabled
-Отключено
+Отключены
 
 
 # Current value for a preference
@@ -185,7 +185,7 @@ The Crash Reporter gives you the opportunity to submit crash reports to Mozilla 
 Службы местоположения Mozilla
 
 
-;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service
+;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
 Службы местоположения Mozilla делятся приблизительным местоположением Wi-Fi и сотовой сети с Mozilla, чтобы помочь улучшить нашу службу геолокации.
 
 
@@ -231,7 +231,7 @@ Easily delete your personal data, such as browsing history, passwords and more a
 
 
 ;Learn how to clear your history
-Узнать как удалить свою историю
+Узнать, как удалить свою историю
 
 
 # Title
@@ -245,7 +245,7 @@ To keep your online searches private, we recommend only using search engines tha
 
 # Title
 ;Additional Add-ons
-Другие дополнения
+Добавочные дополнения
 
 
 ;We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
