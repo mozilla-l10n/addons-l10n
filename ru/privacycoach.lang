@@ -3,69 +3,69 @@
 
 # Title of the Application
 ;Privacy Coach
-Privacy Coach
+Тренер по приватности
 
 
 # Warns you if your search engine (%S is the search engine name) ddesn't use HTTPS
 ;%S doesn't use https. Are you sure you want to continue?
-%S doesn't use https. Are you sure you want to continue?
+%S не использует https. Вы уверены, что хотите продолжить?
 
 
 ;Don't ask me again for %S
-Don't ask me again for %S
+Не спрашивать меня снова для %S
 
 
 # Default warning message
 ;%S doesn't use https. You may want to change your default.
-%S doesn't use https. You may want to change your default.
+%S не использует https. Вы можете захотеть изменить свой выбор по умолчанию.
 
 
 # Add engine warning message
 ;%S doesn't use https. Are you sure you want to add this search engine?
-%S doesn't use https. Are you sure you want to add this search engine?
+%S не использует https. Вы уверены, что хотите добавить эту поисковую систему?
 
 
 # Do Not Track preference: Not set
 ;Do not tell sites anything about my tracking preferences
-Do not tell sites anything about my tracking preferences
+Не сообщать сайтам ничего о моих настройках отслеживания
 
 
 # Do Not Track preference: No
 ;Tell sites that I do not want to be tracked
-Tell sites that I do not want to be tracked
+Сообщать сайтам, что я не хочу, чтобы меня отслеживали
 
 
 # Do Not Track preference: Yes
 ;Tell sites that I want to be tracked
-Tell sites that I want to be tracked
+Сообщать сайтам, что я хочу, чтобы меня отслеживали
 
 
 # Cookie preference, first party only
 ;Enabled, excluding 3rd party
-Enabled, excluding 3rd party
+Включено, за исключением сторонних
 
 
 # Preference enabled
 ;Enabled
-Enabled
+Включено
 
 
 # Preference disabled
 ;Disabled
-Disabled
+Отключено
 
 
 # Current value for a preference
 ;Current setting: %S
-Current setting: %S
+Текущее значение: %S
 
 
 ;Your default search engine (%S) uses HTTPS. Search away!
-Your default search engine (%S) uses HTTPS. Search away!
+Ваша поисковая система по умолчанию (%S) использует HTTPS. Вперёд!
 
 
 ;Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
-Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
+Ваша поисковая система по умолчанию (%S) не использует HTTPS — вам следует подумать, не сменить ли её.
 
 
 # Link to https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-dat
@@ -100,12 +100,12 @@ Private browsing lets you search the Web without your personal data being stored
 
 # Welcome title
 ;Firefox Privacy Coach
-Firefox Privacy Coach
+Тренер по приватности Firefox
 
 
 # Welcome sub-title
 ;by Mozilla
-by Mozilla
+от Mozilla
 
 
 ;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
@@ -114,7 +114,7 @@ Welcome to Privacy Coach, your one-stop shop to learn about and manage your Fire
 
 # Title for preferences
 ;Privacy Preferences
-Privacy Preferences
+Настройки приватности
 
 
 ;Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
@@ -130,7 +130,7 @@ This Firefox innovation helps you stay in control of how your browsing informati
 
 
 ;Learn more about Do Not Track
-Learn more about Do Not Track
+Узнать больше об Отказе-от-отслеживания
 
 
 ;Cookies
@@ -142,11 +142,11 @@ A cookie is information stored on your computer about the websites you visit. Th
 
 
 ;Learn more about Cookies
-Learn more about Cookies
+Узнать больше о Куках
 
 
 ;Firefox Health Report
-Firefox Health Report
+Отчёт о работоспособности Firefox
 
 
 ;Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
@@ -154,7 +154,7 @@ Firefox Health Report provides you with information about your browser’s perfo
 
 
 ;Learn more about Firefox Health Report
-Learn more about Firefox Health Report
+Узнать больше об Отчёте о работоспособности Firefox
 
 
 ;Telemetry
@@ -166,7 +166,7 @@ Telemetry measures and collects non-personal information about the performance o
 
 
 ;Learn more about Telemetry
-Learn more about Telemetry
+Узнать больше о Телеметрии
 
 
 ;Crash Reporter
@@ -178,19 +178,19 @@ The Crash Reporter gives you the opportunity to submit crash reports to Mozilla 
 
 
 ;Learn more about Crash Reporter
-Learn more about Crash Reporter
+Узнать больше о Сообщениях о падениях
 
 
 ;Mozilla Location Services
-Mozilla Location Services
+Службы местоположения Mozilla
 
 
-;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
-Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
+;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service
+Службы местоположения Mozilla делятся приблизительным местоположением Wi-Fi и сотовой сети с Mozilla, чтобы помочь улучшить нашу службу геолокации.
 
 
 ;Privacy Features
-Privacy Features
+Обеспечение приватности
 
 
 ;In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
@@ -206,11 +206,11 @@ When Private Browsing tabs are opened, Firefox for Android won’t accept cookie
 
 
 ;Learn more about Private Browsing
-Learn more about Private Browsing
+Узнать больше о Приватном просмотре
 
 
 ;Guest Browsing
-Guest Browsing
+Гостевая сессия
 
 
 ;A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
@@ -218,12 +218,12 @@ A Guest Browsing session lets someone else use Firefox on your Android device wi
 
 
 ;Learn more about Guest Browsing
-Learn more about Guest Browsing
+Узнать больше о Гостевой сессии
 
 
 # Title
 ;Clear History and other data
-Clear History and other data
+Удаление истории и других данных
 
 
 ;Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
@@ -231,12 +231,12 @@ Easily delete your personal data, such as browsing history, passwords and more a
 
 
 ;Learn how to clear your history
-Learn how to clear your history
+Узнать как удалить свою историю
 
 
 # Title
 ;HTTPS Search
-HTTPS Search
+Поиск через HTTPS
 
 
 ;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
@@ -245,7 +245,7 @@ To keep your online searches private, we recommend only using search engines tha
 
 # Title
 ;Additional Add-ons
-Additional Add-ons
+Другие дополнения
 
 
 ;We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
@@ -273,17 +273,17 @@ For even more, you can explore our full set of <a>Security &amp; Privacy add-ons
 
 # Button for privacy settings
 ;Privacy Settings
-Privacy Settings
+Настройки приватности
 
 
 # Button for general Mozilla settings
 ;Mozilla Settings
-Mozilla Settings
+Настройки Mozilla
 
 
 # Search button
 ;Search Settings
-Search Settings
+Настройки поиска
 
 
 ;Learn More
