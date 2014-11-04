@@ -3,7 +3,7 @@
 
 # Title of the Application
 ;Privacy Coach
-Privacy Coach
+Privacy Coach {ok}
 
 
 # Warns you if your search engine (%S is the search engine name) ddesn't use HTTPS
@@ -100,7 +100,7 @@ La navegación privada le permite buscar en la web sin que se guarden sus datos 
 
 # Welcome title
 ;Firefox Privacy Coach
-Firefox Privacy Coach
+Firefox Privacy Coach {ok}
 
 
 # Welcome sub-title
