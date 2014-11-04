@@ -8,7 +8,7 @@ Privacy Coach {ok}
 
 # Warns you if your search engine (%S is the search engine name) ddesn't use HTTPS
 ;%S doesn't use https. Are you sure you want to continue?
-Il motore di ricerca %S non utilizza il protocollo HTTPS. Procedere con l’operazione?
+Il motore di ricerca %S non utilizza il protocollo HTTPS. Proseguire?
 
 
 ;Don't ask me again for %S
@@ -65,7 +65,7 @@ il motore di ricerca impostato come predefinito %S utilizza HTTPS. Vai e cerca s
 
 
 ;Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
-Il motore di ricerca predefinito %S non utilizza HTTPS; potrebbe essere un problema per la privacy
+Il motore di ricerca predefinito %S non utilizza HTTPS, dovresti utilizzarne un altro.
 
 
 # Link to https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-dat
@@ -75,7 +75,7 @@ Scopri tutti i modi per eliminare i dati personali in Firefox »
 
 # Link to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 ;Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
-Scopri come creare password sicure e facili da ricordare per mantenere le tue identità online sicure »
+Scopri come creare password sicure e facili da ricordare per mantenere la tua identità online al sicuro »
 
 
 # Link to https://support.mozilla.org/kb/firefox-health-report-understand-your-android-browser-perf
@@ -85,7 +85,7 @@ Migliora le prestazioni di Firefox utilizzando i suggerimenti di Analisi integri
 
 # Link to https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
 ;Discover how Firefox for Android blocks unsecure or mixed content from otherwise secure Web pages »
-Scopri come Firefox per Android blocca automaticamente i contenuti non sicuri o misti caricati in pagine altrimenti sicure »
+Scopri in che modo Firefox per Android blocca automaticamente i contenuti non sicuri o misti caricati in pagine altrimenti sicure »
 
 
 # Link to https://support.mozilla.org/kb/share-your-android-device-firefox-guest-session
@@ -95,12 +95,12 @@ La navigazione in modalità ospite è un ottimo strumento per condividere il bro
 
 # Link to https://support.mozilla.org/kb/mobile-private-browsing-browse-web-without-saving-syncing-info
 ;Private browsing lets you search the Web without your personal data being stored. Learn more »
-La navigazione anonima ti consente di cercare sul Web senza che i tuoi dati personali vengano rubati. Ulteriori informazioni »
+La navigazione anonima consente di cercare sul Web senza che i tuoi dati personali vengano salvati. Ulteriori informazioni »
 
 
 # Welcome title
 ;Firefox Privacy Coach
-Assistente personale per la privacy in Firefox
+Assistente personale per la privacy di Firefox
 
 
 # Welcome sub-title
@@ -109,7 +109,7 @@ realizzato da Mozilla
 
 
 ;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
-Benvenuto in Privacy Coach, il factotum che ti consentirà di conoscere e gestire tutte le impostazioni relative alla privacy in Firefox per Android. Sarà sempre possibile accedere a questa pagina utilizzando il menu Strumenti di Firefox.
+Benvenuto in Privacy Coach, il factotum che ti consentirà di conoscere e gestire tutte le impostazioni relative alla privacy di Firefox per Android. Sarà sempre possibile accedere a questa pagina utilizzando il menu Strumenti di Firefox.
 
 
 # Title for preferences
@@ -118,7 +118,7 @@ Impostazioni relative alla privacy
 
 
 ;Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
-Per assicurarti una navigazione il più possibile anonima e sicura, in Firefox esistono molte impostazioni a riguardo . Al fine di permetterti di comprendere le impostazioni più adatte per il tuo stile di navigazione, abbiamo deciso di descrivere le varie preferenze singolarmente.
+In Firefox sono disponibili diverse impostazioni per garantire una navigazione il più possibile anonima e sicura. Per determinare le impostazioni più adatte al tuo stile di navigazione abbiamo deciso di descrivere le varie preferenze singolarmente.
 
 
 ;Do Not Track
@@ -138,11 +138,11 @@ Cookie
 
 
 ;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
-Un cookie è un’informazione memorizzata nel computer da un sito web che visiti. Icookie di terze parti sono dei cookie impostati da siti diversi da quello attualmente visualizzato nel browser. Alcuni inserzionisti pubblicitari utilizzano questi tipi di cookie per tenere traccia delle visite ai siti in cui offrono i loro servizi. Firefox consente di accettare o bloccare le richieste di memorizzazione dei cookie da parte dei siti, di cancellarli automaticamente alla chiusura e molto altro.
+Un cookie è un’informazione memorizzata nel computer da un sito web che visiti. I cookie di terze parti sono dei cookie impostati da siti diversi da quello attualmente visualizzato nel browser. Alcuni inserzionisti pubblicitari utilizzano questo tipo di cookie per tenere traccia delle visite ai siti in cui offrono i loro servizi. Firefox consente di accettare o bloccare le richieste di memorizzazione dei cookie da parte dei siti, di cancellarli automaticamente alla chiusura e molto altro ancora.
 
 
 ;Learn more about Cookies
-ulteriori informazioni sui cookie
+Ulteriori informazioni sui cookie
 
 
 ;Firefox Health Report
@@ -186,7 +186,7 @@ Servizi Mozilla per il rilevamento della posizione geografica
 
 
 ;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
-I servizi Mozilla per il rilevamento della posizione condividono con Mozilla stessa informazioni sulla posizione geografica approssimativa utilizzando i dati della rete Wi-Fi o di telefonia mobile per migliorare il servizio di geolocalizzazione offerto da Mozilla.
+I servizi Mozilla per il rilevamento della posizione condividono con Mozilla stessa informazioni sulla posizione geografica approssimativa, utilizzando i dati della rete Wi-Fi o di telefonia mobile, per migliorare il servizio di geolocalizzazione offerto da Mozilla.
 
 
 ;Privacy Features
@@ -194,11 +194,11 @@ Caratteristiche relative alla privacy
 
 
 ;In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
-In aggiunta alle impostazioni personalizzabili descritte qui sopra, in Firefox esistono anche altri strumenti sviluppati per permetterti di mantenere i tuoi dati personali privati nell’uso quotidiano.
+In aggiunta alle impostazioni personalizzabili descritte in precedenza, in Firefox sono disponibili anche altri strumenti sviluppati per permetterti di mantenere i tuoi dati personali privati nell’uso quotidiano.
 
 
 ;Private Browsing
-navigazione anonima
+Navigazione anonima
 
 
 ;When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
@@ -214,7 +214,7 @@ Navigazione in modalità ospite
 
 
 ;A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
-Una sessione in modalità ospite consente a altre persone di utilizzare Firefox sul tuo dispositivo Android senza che abbiano accesso ai tuoi dati personali, quali password, segnalibri e cronologia di navigazione.
+Una sessione in modalità ospite consente ad altre persone di utilizzare Firefox sul tuo dispositivo Android senza che abbiano accesso ai tuoi dati personali, quali password, segnalibri e cronologia di navigazione.
 
 
 ;Learn more about Guest Browsing
@@ -240,7 +240,7 @@ Ricerche utilizzando HTTPS
 
 
 ;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
-Per mantenere le tue ricerche anonime ti consigliamo di utilizzare solo motori di ricerca che implementano il protocollo sicuro HTTPS, che consente di cifrare le trasmissioni dei dati tra il browser e il server. Affinché tu sia sempre informato, in Firefox vengono mostrati degli avvisi quando effettui delle ricerche o tenti di impostare come motore di ricerca predefinito un motore che utilizza il protocollo standard non sicuro HTTP. Potrai cambiare in qualunque momento il motore di ricerca predefinito nella pagina delle impostazioni per le ricerche.
+Per mantenere le tue ricerche anonime ti consigliamo di utilizzare solo motori di ricerca che implementano il protocollo sicuro HTTPS, che consente di cifrare le trasmissioni dei dati tra il browser e il server. Per mantenerti sempre informato, in Firefox vengono mostrati degli avvisi quando effettui delle ricerche o tenti di impostare come motore di ricerca predefinito un sito che utilizza il protocollo standard non sicuro HTTP. Potrai cambiare in qualunque momento il motore di ricerca predefinito nella pagina delle impostazioni per le ricerche.
 
 
 # Title
@@ -292,6 +292,6 @@ Ulteriori informazioni
 
 # This is the description of the extension for the Add-on manager
 ;Add-on that helps you use privacy features in your browser.
-un componente aggiuntivo che ti aiuta a utilizzare gli strumenti per la privacy di Firefox.
+Un componente aggiuntivo che ti aiuta a utilizzare gli strumenti per la privacy di Firefox.
 
 
