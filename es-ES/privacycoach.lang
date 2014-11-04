@@ -8,94 +8,94 @@ Privacy Coach
 
 # Warns you if your search engine (%S is the search engine name) ddesn't use HTTPS
 ;%S doesn't use https. Are you sure you want to continue?
-%S doesn't use https. Are you sure you want to continue?
+%S no usa https. ¿Seguro que quiere continuar?
 
 
 ;Don't ask me again for %S
-Don't ask me again for %S
+No volver a preguntarme por %S
 
 
 # Default warning message
 ;%S doesn't use https. You may want to change your default.
-%S doesn't use https. You may want to change your default.
+%S no usa https. Quizá quiera cambiar sus preferencias.
 
 
 # Add engine warning message
 ;%S doesn't use https. Are you sure you want to add this search engine?
-%S doesn't use https. Are you sure you want to add this search engine?
+%S no usa https. ¿Seguro que quiere añadir este buscador?
 
 
 # Do Not Track preference: Not set
 ;Do not tell sites anything about my tracking preferences
-Do not tell sites anything about my tracking preferences
+No indicar nada a los sitios sobre mis preferencias de rastreo
 
 
 # Do Not Track preference: No
 ;Tell sites that I do not want to be tracked
-Tell sites that I do not want to be tracked
+Indicar a los sitios que no quiero ser rastreado
 
 
 # Do Not Track preference: Yes
 ;Tell sites that I want to be tracked
-Tell sites that I want to be tracked
+Indicar a los sitios que quiero ser rastreado
 
 
 # Cookie preference, first party only
 ;Enabled, excluding 3rd party
-Enabled, excluding 3rd party
+Activado, excepto las de terceros
 
 
 # Preference enabled
 ;Enabled
-Enabled
+Activado
 
 
 # Preference disabled
 ;Disabled
-Disabled
+Desactivado
 
 
 # Current value for a preference
 ;Current setting: %S
-Current setting: %S
+Ajuste actual: %S
 
 
 ;Your default search engine (%S) uses HTTPS. Search away!
-Your default search engine (%S) uses HTTPS. Search away!
+Su buscador actual (%S) usa HTTPS. ¡Puede comenzar a buscar!
 
 
 ;Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
-Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
+Su buscador actual (%S) no usa HTTPS; debería considerar cambiarlo ahora.
 
 
 # Link to https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-dat
 ;Discover all the ways you can clear your personal browsing data from Firefox »
-Discover all the ways you can clear your personal browsing data from Firefox »
+Descubra cómo puede limpiar sus datos personales de navegación de Firefox »
 
 
 # Link to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 ;Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
-Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
+Descubra cómo crear contraseñas seguras y fáciles de recordar para mantener la seguridad de su identidad en línea »
 
 
 # Link to https://support.mozilla.org/kb/firefox-health-report-understand-your-android-browser-perf
 ;Improve your browser’s performance with tips from your Firefox Health Report. Learn more »
-Improve your browser’s performance with tips from your Firefox Health Report. Learn more »
+Mejore el rendimiento de su navegador con consejos del Informe de salud de su Firefox. Más información »
 
 
 # Link to https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
 ;Discover how Firefox for Android blocks unsecure or mixed content from otherwise secure Web pages »
-Discover how Firefox for Android blocks unsecure or mixed content from otherwise secure Web pages »
+Descubra cómo bloquea Firefox para Android contenido inseguro o mixto de páginas web seguras »
 
 
 # Link to https://support.mozilla.org/kb/share-your-android-device-firefox-guest-session
 ;Guest browsing is a great way to share your browser without sharing your private info. Learn more »
-Guest browsing is a great way to share your browser without sharing your private info. Learn more »
+La navegación de invitado es una manera genial de compartir su navegador sin compartir también su información personal. Más información »
 
 
 # Link to https://support.mozilla.org/kb/mobile-private-browsing-browse-web-without-saving-syncing-info
 ;Private browsing lets you search the Web without your personal data being stored. Learn more »
-Private browsing lets you search the Web without your personal data being stored. Learn more »
+La navegación privada le permite buscar en la web sin que se guarden sus datos personales. Más información »
 
 
 # Welcome title
@@ -105,20 +105,20 @@ Firefox Privacy Coach
 
 # Welcome sub-title
 ;by Mozilla
-by Mozilla
+de Mozilla
 
 
 ;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
-Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
+Bienvenido a Privacy Coach, su punto de referencia para conocer y gestionar los ajustes de privacidad de su Firefox para Android. Puede volver a visitar esta página en cualquier momento abriendo el menú Herramientas de su navegador.
 
 
 # Title for preferences
 ;Privacy Preferences
-Privacy Preferences
+Preferencias de privacidad
 
 
 ;Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
-Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
+Firefox le permite personalizar varios ajustes en un esfuerzo por hacer su experiencia de navegación tan privada y segura como sea posible. Hemos desglosado esta lista de preferencias para explicar qué hacen y ayudarle a decidir qué ajustes son los correctos para usted.
 
 
 ;Do Not Track
@@ -126,11 +126,11 @@ No ser rastreado
 
 
 ;This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
-This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
+Esta innovación de Firefox le ayuda a mantener el control de cómo se recopila y usa su información de navegación en línea. Cuando se activa esta característica, Firefox indicará a las redes, sitios web y aplicaciones de anunciantes que quiere ser excluido del rastreo para publicidad basada en intereses.
 
 
 ;Learn more about Do Not Track
-Learn more about Do Not Track
+Más información sobre No ser rastreado
 
 
 ;Cookies
@@ -138,23 +138,23 @@ Cookies {ok}
 
 
 ;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
-A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
+Una cookie es información que se guarda en su equipo sobre los sitios web que visita. Las cookies de terceros son las que envía un sitio web diferente a aquél en el que se encuentra. Algunos anunciantes usan este tipo de cookies para rastrear sus visitas a los sitios web en los que se anuncian. Firefox tiene ajustes que le permiten aprobar o denegar las solicitudes de envío de cookies, eliminar cookies automáticamente y otras funciones.
 
 
 ;Learn more about Cookies
-Learn more about Cookies
+Más información sobre cookies
 
 
 ;Firefox Health Report
-Firefox Health Report
+Informe de salud de Firefox
 
 
 ;Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
-Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
+El informe de salud de Firefox le proporciona información sobre el rendimiento y estabilidad de su navegador a lo largo del tiempo. Luego le ofrece consejos útiles basados en esos datos para ayudarle a obtener lo máximo de su experiencia de navegación. Para más información sobre cómo gestionamos sus datos, lea nuestra <a>política de privacidad</a>.
 
 
 ;Learn more about Firefox Health Report
-Learn more about Firefox Health Report
+Más información sobre el informe de salud de Firefox
 
 
 ;Telemetry
@@ -162,11 +162,11 @@ Telemetry {ok}
 
 
 ;Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
-Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
+Telemetry mide y recopila información no personal sobre el rendimiento de su navegador Firefox —como el consumo de memoria, velocidad del navegador y uso de características— y lo envía a Mozilla. Esa información es usada después para ayudarnos a mejorar Firefox para usted.
 
 
 ;Learn more about Telemetry
-Learn more about Telemetry
+Más información sobre Telemetry
 
 
 ;Crash Reporter
@@ -174,27 +174,27 @@ Informe de fallos
 
 
 ;The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
-The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
+El informe de fallos le da la oportunidad de enviar información sobre fallos a Mozilla en un esfuerzo por ayudarnos a hacer Firefox más estable y seguro. Un informe de fallos puede incluir algunos datos personales, tales como las URL que se estaban visitando.
 
 
 ;Learn more about Crash Reporter
-Learn more about Crash Reporter
+Más información sobre los informes de fallos
 
 
 ;Mozilla Location Services
-Mozilla Location Services
+Servicios de localización de Mozilla
 
 
 ;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
-Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
+Los servicios de localización de Mozilla comparten con Mozilla ubicaciones aproximadas de acuerdo a datos wifi y redes móviles para ayudar a mejorar nuestro servicio de geolocalización.
 
 
 ;Privacy Features
-Privacy Features
+Características de privacidad
 
 
 ;In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
-In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
+Además de las preferencias personalizables de privacidad anteriores, Firefox también incluye características de privacidad que puede usar a diario para ayudar a mantener sus datos personales de navegación privados.
 
 
 ;Private Browsing
@@ -202,88 +202,88 @@ Navegación privada
 
 
 ;When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
-When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
+Cuando se abren pestañas de navegación privada, Firefox para Android no aceptará cookies, recordará contraseñas ni guardará un historial los sitios que visite. Puede abrir una sesión de navegación privada pulsando en los iconos del menú de su navegador y seleccionando &quot;Nueva pestaña privada&quot;.
 
 
 ;Learn more about Private Browsing
-Learn more about Private Browsing
+Más información sobre la navegación privada
 
 
 ;Guest Browsing
-Guest Browsing
+Navegación de invitado
 
 
 ;A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
-A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
+Una sesión de invitado permite que alguien más use Firefox en su dispositivo Android sin acceder a su información personal como contraseñas, marcadores o historial.
 
 
 ;Learn more about Guest Browsing
-Learn more about Guest Browsing
+Más información sobre las sesiones de invitado
 
 
 # Title
 ;Clear History and other data
-Clear History and other data
+Limpiar historial y otros datos
 
 
 ;Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
-Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
+Elimine fácilmente sus datos personales, como el historial de navegación, contraseñas y otros siempre que quiera. En sus ajustes de privacidad, puede elegir limpiar los datos privados cada vez que seleccione &quot;Salir&quot; desde el menú central.
 
 
 ;Learn how to clear your history
-Learn how to clear your history
+Aprenda a eliminar su historial
 
 
 # Title
 ;HTTPS Search
-HTTPS Search
+Búsqueda HTTPS
 
 
 ;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
-To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
+Para mantener la privacidad de sus búsquedas en línea, recomendamos usar únicamente buscadores que permitan HTTPS, un protocolo seguro de comunicación. Para ayudar a mantenerle informado, Firefox le avisará antes de realizar una búsqueda que se efectúe sobre una red HTTP insegura. Firefox también le ofrecerá una advertencia si intenta convertir un buscador que usa HTTP en su buscador por defecto. Puede cambiar su buscador por defecto en cualquier momento en la página de ajustes de búsqueda.
 
 
 # Title
 ;Additional Add-ons
-Additional Add-ons
+Complementos adicionales
 
 
 ;We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
-We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
+Esperamos que haya encontrado útil Firefox Privacy Coach y comprenda mejor las muchas características y ajustes de privacidad del navegador. Si desea aún más control sobre sus datos de navegación personal, revise algunos de los complementos listados más abajo.
 
 
 # Description for 'Ghostery' add-on
 ;Protects your privacy by letting you see who's tracking your Web browsing and block them.
-Protects your privacy by letting you see who's tracking your Web browsing and block them.
+Protege su privacidad permitiéndole ver quién está rastreando su navegación web y bloqueándola.
 
 
 # Description for 'HTTPS Everywhere' add-on
 ;Encrypts your communications with many major websites, making your browsing more secure.
-Encrypts your communications with many major websites, making your browsing more secure.
+Cifra sus comunicaciones con los sitios web más importantes, haciendo más segura su navegación.
 
 
 # Description for 'Self Destructing Cookies' add-on
 ;Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
-Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
+Líbrese de las cookies y el almacenamiento local de un sitio tan pronto como cierre todas las pestañas abiertas con ese sitio. También le protege contra rastreadores y cookies-zombi y le permite añadir a una lista blanca servicios en los que confía.
 
 
 ;For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
-For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
+Para conocer aún más, puede explorar nuestro conjunto completo de <a>Complementos de seguridad y privacidad »</a>
 
 
 # Button for privacy settings
 ;Privacy Settings
-Privacy Settings
+Ajustes de privacidad
 
 
 # Button for general Mozilla settings
 ;Mozilla Settings
-Mozilla Settings
+Ajustes de Mozilla
 
 
 # Search button
 ;Search Settings
-Search Settings
+Ajustes de búsqueda
 
 
 ;Learn More
@@ -292,6 +292,6 @@ Saber más
 
 # This is the description of the extension for the Add-on manager
 ;Add-on that helps you use privacy features in your browser.
-Add-on that helps you use privacy features in your browser.
+Complemento que le ayuda a usar características de privacidad en su navegador.
 
 
