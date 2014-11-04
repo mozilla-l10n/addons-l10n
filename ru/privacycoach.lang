@@ -42,17 +42,17 @@
 
 # Cookie preference, first party only
 ;Enabled, excluding 3rd party
-Включены, за исключением сторонних
+Включено, кроме сторонних сайтов
 
 
 # Preference enabled
 ;Enabled
-Включены
+Включено
 
 
 # Preference disabled
 ;Disabled
-Отключены
+Отключено
 
 
 # Current value for a preference
@@ -80,7 +80,7 @@
 
 # Link to https://support.mozilla.org/kb/firefox-health-report-understand-your-android-browser-perf
 ;Improve your browser’s performance with tips from your Firefox Health Report. Learn more »
-Повысьте производительность браузера с советами от Отчёта о работоспособности Firefox. Подробнее »
+Повысьте производительность браузера с советами от Отчёта о здоровье Firefox. Подробнее »
 
 
 # Link to https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
@@ -122,7 +122,7 @@ Firefox позволяет вам настроить различные пара
 
 
 ;Do Not Track
-Отказ-от-отслеживания
+Не-Следи-за-Мной
 
 
 ;This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
@@ -130,7 +130,7 @@ Firefox позволяет вам настроить различные пара
 
 
 ;Learn more about Do Not Track
-Узнать больше об Отказе-от-отслеживания
+Узнать больше о Не-Следи-за-Мной
 
 
 ;Cookies
@@ -138,7 +138,7 @@ Firefox позволяет вам настроить различные пара
 
 
 ;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
-Куки — это информация, хранящаяся на вашем компьютере о посещаемых вами веб-сайтах. Сторонние куки — это куки, установленные веб-сайтом, отличным от того, на котором вы в настоящее время находитесь. Некоторые рекламодатели используют эти типы куков, чтобы отслеживать посещение вами веб-сайтов, на которых они размещают рекламу. Firefox имеет настройки, позволяющие одобрять или отклонять запросы на хранение куков, автоматическое удаление куков и другие.
+Куки — это информация, хранящаяся на вашем компьютере о посещаемых вами веб-сайтах. Куки со сторонних сайтов — это куки, установленные веб-сайтом, отличным от того, на котором вы в настоящее время находитесь. Некоторые рекламодатели используют эти типы куков, чтобы отслеживать посещение вами веб-сайтов, на которых они размещают рекламу. Firefox имеет настройки, позволяющие одобрять или отклонять запросы на хранение куков, автоматически удалять куки и другие.
 
 
 ;Learn more about Cookies
@@ -146,15 +146,15 @@ Firefox позволяет вам настроить различные пара
 
 
 ;Firefox Health Report
-Отчёт о работоспособности Firefox
+Отчёт о здоровье Firefox
 
 
 ;Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
-Отчёт о работоспособности Firefox предоставляет вам информацию о производительности и стабильности браузера с течением времени. На основе этих данных он дает полезные советы, чтобы помочь вам получить от веб-сёрфинга в Интернете максимальную отдачу. Для получения дополнительной информации о том, как мы обращаемся с вашими данными, прочтите нашу <a>политику приватности</a>.
+Отчёт о здоровье Firefox предоставляет вам информацию о производительности и стабильности браузера с течением времени. На основе этих данных он дает полезные советы, чтобы помочь вам получить от веб-сёрфинга в Интернете максимальную отдачу. Для получения дополнительной информации о том, как мы обращаемся с вашими данными, прочтите нашу <a>политику приватности</a>.
 
 
 ;Learn more about Firefox Health Report
-Узнать больше об Отчёте о работоспособности Firefox
+Узнать больше об Отчёте о здоровье Firefox
 
 
 ;Telemetry
@@ -264,11 +264,11 @@ Firefox позволяет вам настроить различные пара
 
 # Description for 'Self Destructing Cookies' add-on
 ;Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
-Избавляется от куков сайта и Локального Хранилища как только вы закроете все открытые вкладки этой страницы. Также защищает от трекеров и куков-зомби и позволяет вам заносить в белый список сервисы, которым, по вашему мнению, можно доверять.
+Избавляет от куков сайта и Локального Хранилища как только вы закроете все открытые вкладки этой страницы. Также защищает от трекеров и куков-зомби и позволяет вам заносить в белый список сервисы, которым, по вашему мнению, можно доверять.
 
 
 ;For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
-Чтобы найти ещё больше, просмотрите наш полный набор <a>дополнений Безопасности и приватности »</a>
+Чтобы найти ещё больше дополнений, просмотрите наш полный набор <a>дополнений Безопасности и приватности »</a>
 
 
 # Button for privacy settings
