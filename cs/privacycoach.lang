@@ -8,21 +8,21 @@ Privacy Coach {ok}
 
 # Warns you if your search engine (%S is the search engine name) ddesn't use HTTPS
 ;%S doesn't use https. Are you sure you want to continue?
-%S doesn't use https. Are you sure you want to continue?
+%S nepoužívá https. Jste si jisti, že chcete pokračovat?
 
 
 ;Don't ask me again for %S
-Don't ask me again for %S
+Pro %S se již příště neptat
 
 
 # Default warning message
 ;%S doesn't use https. You may want to change your default.
-%S doesn't use https. You may want to change your default.
+%S nepoužívá https. Možná byste chtěli svůj výchozí vyhledávač změnit.
 
 
 # Add engine warning message
 ;%S doesn't use https. Are you sure you want to add this search engine?
-%S doesn't use https. Are you sure you want to add this search engine?
+%S nepoužívá https. Jste si jisti, že chcete přidat tento vyhledávač?
 
 
 # Do Not Track preference: Not set
@@ -42,17 +42,17 @@ Informovat servery, že můžu být sledován
 
 # Cookie preference, first party only
 ;Enabled, excluding 3rd party
-Enabled, excluding 3rd party
+Povoleny, vyjma třetích stran
 
 
 # Preference enabled
 ;Enabled
-Enabled
+Povoleny
 
 
 # Preference disabled
 ;Disabled
-Disabled
+Zakázány
 
 
 # Current value for a preference
@@ -75,27 +75,27 @@ Objevte všechny možnosti jak můžete vymazat svá osobní data o prohlížen�
 
 # Link to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 ;Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
-Zjistěte, jak si vytvářit bezpečná a snadno zapamatovatelná hesla pro udržení své online identity v bezpečí »
+Zjistěte, jak si vytvářet bezpečná a snadno zapamatovatelná hesla pro udržení své online identity v bezpečí »
 
 
 # Link to https://support.mozilla.org/kb/firefox-health-report-understand-your-android-browser-perf
 ;Improve your browser’s performance with tips from your Firefox Health Report. Learn more »
-Improve your browser’s performance with tips from your Firefox Health Report. Learn more »
+Zrychlete svůj prohlížeč s tipy hlášení o zdraví aplikace Firefox. Zjistěte více »
 
 
 # Link to https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
 ;Discover how Firefox for Android blocks unsecure or mixed content from otherwise secure Web pages »
-Discover how Firefox for Android blocks unsecure or mixed content from otherwise secure Web pages »
+Zjistěte, jak Firefox pro Android blokuje nezabezpečený nebo smíšený obsah z jinak zabezpečených webových stránek »
 
 
 # Link to https://support.mozilla.org/kb/share-your-android-device-firefox-guest-session
 ;Guest browsing is a great way to share your browser without sharing your private info. Learn more »
-Guest browsing is a great way to share your browser without sharing your private info. Learn more »
+Prohlížení pro hosty je vynikající způsob, jak sdílet svůj prohlížeč bez strachu o své soukromé informace. Zjistěte více »
 
 
 # Link to https://support.mozilla.org/kb/mobile-private-browsing-browse-web-without-saving-syncing-info
 ;Private browsing lets you search the Web without your personal data being stored. Learn more »
-Private browsing lets you search the Web without your personal data being stored. Learn more »
+Anonymní prohlížení vám umožní vyhledávat na webu bez ukládání jakýchkoliv osobních data. Zjistěte více »
 
 
 # Welcome title
@@ -109,16 +109,16 @@ od Mozilly
 
 
 ;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
-Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
+Vítejte v doplňku Privacy Coach, vaší jednoduché cestě ke správě soukromí ve vašem Firefoxu pro Android. Tuto stránky můžete kdykoliv znovu navštívit otevřením nabídky Nástroje ve vašem prohlížeči.
 
 
 # Title for preferences
 ;Privacy Preferences
-Předvolby soukromí
+Nastavení soukromí
 
 
 ;Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
-Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
+Firefox vám umožňuje přizpůsobit si různá nastavení pro maximální možné soukromí a bezpečnost během prohlížení. Připravili jsme pro vás tento seznam nastavení a vysvětlení, jak fungují, abychom vám pomohli se snadno rozhodnout, která jsou pro vás ta správná.
 
 
 ;Do Not Track
@@ -126,7 +126,7 @@ Do Not Track {ok}
 
 
 ;This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
-This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
+Tato funkce přinesená Firefoxem vám pomáhá udržet si kontrolu, jaké informace jsou o vás sbírány během prohlížení. Je-li tato funkce povolená, Firefox bude stránkám, aplikacím i reklamním serverům sdělovat, že si nepřejete být sledování za účelem přizpůsobení reklamního obsahu.
 
 
 ;Learn more about Do Not Track
@@ -138,7 +138,7 @@ Cookies {ok}
 
 
 ;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
-A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
+Pomocí cookies mohou stránky, které navštívíte, na váš počítat ukládat různé informace. Cookies třetích stran jsou pak ukládány i jinými stránkami, než které přímo navštívíte. Některé reklamní služby je využívají pro sledování vašich návštěv. Firefox umožňuje nastavit, zda je nebo není možné cookies ukládat, případně je automaticky mazat nebo jinak spravovat.
 
 
 ;Learn more about Cookies
@@ -146,15 +146,15 @@ Zjistěte více o cookies
 
 
 ;Firefox Health Report
-Firefox Health Report
+Hlášení o zdraví aplikace Firefox
 
 
 ;Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
-Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
+Hlášení o zdraví aplikace Firefox vám zobrazí informace o rychlosti a stabilitě vašeho prohlížeče. Poté vám nabídne také užitečné tipy a pomůže vám prohlížeč nastavit pro co nejlepší prohlížení. Pro více informací, jak s těmito daty Mozilla nakládá, si přečtěte naše informace o <a>Soukromí</a>.
 
 
 ;Learn more about Firefox Health Report
-Learn more about Firefox Health Report
+Zjistěte více o hlášení o zdraví Firefoxu
 
 
 ;Telemetry
@@ -162,7 +162,7 @@ Telemetrie
 
 
 ;Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
-Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
+Telemetrie měří a sbírá anonymní data o rychlosti Vašeho prohlížeče Firefox — jako je spotřeba paměti, rychlost prohlížení a využívání funkcí — a posílá je Mozille. Tyto informace jsou pak využívány pro zlepšení Firefoxu přesně pro vás.
 
 
 ;Learn more about Telemetry
@@ -170,15 +170,15 @@ Zjistěte více o telemetrii
 
 
 ;Crash Reporter
-Crash Reporter
+Hlášení pádů
 
 
 ;The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
-The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
+Hlášení pádů vám dává možnost zasílat informace o pádech prohlížeče Mozille, což nám pomůže udělat Firefox stabilnější a bezpečnější. Hlášení o pádech mohou obsahovat některá osobní data, jako jsou URL adresy stránek, které jste zrovna navštívili.
 
 
 ;Learn more about Crash Reporter
-Learn more about Crash Reporter
+Zjistěte více o hlášení pádů
 
 
 ;Mozilla Location Services
@@ -186,15 +186,15 @@ Mozilla Location Services {ok}
 
 
 ;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
-Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
+Mozilla Location Services sdílí přibližnou polohu Wi-Fi a mobilního vysílače pro zlepšení geolokačních služeb Mozilly.
 
 
 ;Privacy Features
-Privacy Features
+Funkce pro soukromí
 
 
 ;In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
-In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
+Jako doplnění k nastavení soukromí výše, Firefox také obsahuje několik funkcí, které můžete využívat každý den pro lepší ochranu svých osobních dat o prohlížení.
 
 
 ;Private Browsing
@@ -202,7 +202,7 @@ Anonymní prohlížení
 
 
 ;When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
-When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
+Při prohlížení v otevřeném anonymním panelu nebude Firefox ukládat žádné cookies, hesla nebo historii jakýchkoliv navštívených stránek. Anonymní panel můžete otevřít klepnutím na ikonu menu a vybráním &quot;Nový anonymní panel&quot;.
 
 
 ;Learn more about Private Browsing
@@ -210,28 +210,28 @@ Zjistěte více o anonymním prohlížení
 
 
 ;Guest Browsing
-Guest Browsing
+Prohlížení pro hosty
 
 
 ;A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
-A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
+Prohlížení pro hosty umožní někoho dalšího používat Firefox na vašem zařízení s Androidem bez toho, aby viděl jakékoliv vaše osobní informace, jako jsou hesla, záložky nebo historie.
 
 
 ;Learn more about Guest Browsing
-Learn more about Guest Browsing
+Zjistěte více o prohlížení pro hosty
 
 
 # Title
 ;Clear History and other data
-Clear History and other data
+Vymazání historie prohlížení a dalších dat
 
 
 ;Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
-Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
+Svá osobní data, jakými jsou historie prohlížení nebo hesla, můžete snadno smazat kdykoliv budete chtít. V nastavení soukromí můžete nastavit také jejich automatické smazání kdykoliv se rozhodnete prohlížeč &quot;Ukončit&quot; z hlavní nabídky.
 
 
 ;Learn how to clear your history
-Learn how to clear your history
+Zjistěte jak vymazat svou historii prohlížení
 
 
 # Title
@@ -240,7 +240,7 @@ HTTPS vyhledávání
 
 
 ;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
-To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
+Pro udržení vašeho vyhledávání v soukromí doporučujeme používat pouze ty vyhledávače, které podporují zabezpečený komunikační protokol HTTPS. Firefox vás vždy upozorní před vyhledáváním pomocí nezabezpečeného HTTP spojení. Firefox vás také upozorní, pokud se rozhodnete nastavit vyhledávač s HTTP jako svůj výchozí. Svůj výchozí vyhledávač můžete také kdykoliv změnit na stránce nastavení vyhledávání.
 
 
 # Title
@@ -249,26 +249,26 @@ Přídavné doplňky
 
 
 ;We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
-We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
+Věříme, že je pro vás náš Firefox Privacy Coach užitečný a pomohl vám porozumět mnoha funkcím a nastavení soukromí. Pokud byste rádi měli jetšě větší kontrolu na svými osobními daty o prohlížení, vyzkoušejte některé níže nabízené doplňky.
 
 
 # Description for 'Ghostery' add-on
 ;Protects your privacy by letting you see who's tracking your Web browsing and block them.
-Protects your privacy by letting you see who's tracking your Web browsing and block them.
+Ochrání vaše soukromí, ukáže vám, kdo vás zrovna na webu sleduje, a pomůže tomu zabránit.
 
 
 # Description for 'HTTPS Everywhere' add-on
 ;Encrypts your communications with many major websites, making your browsing more secure.
-Encrypts your communications with many major websites, making your browsing more secure.
+Šifruje vaši komunikaci na většině nejpoužívanějších stránek pro bezpečnější prohlížení.
 
 
 # Description for 'Self Destructing Cookies' add-on
 ;Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
-Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
+Zbaví vás cookies a dat LocalStorage hned jak zavřete některý z otevřených panelů. Chrání také před sledováním a zombie-cookies a zároveň umožní ukládání dat povolit pro stránky a služby, kterým důvěřujete.
 
 
 ;For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
-For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
+Mnohem více doplňků najdete v našem kompletním seznamu doplňků pro <a>Bezpečnost a soukromí »</a>
 
 
 # Button for privacy settings
@@ -292,6 +292,6 @@ Zjistěte více
 
 # This is the description of the extension for the Add-on manager
 ;Add-on that helps you use privacy features in your browser.
-Add-on that helps you use privacy features in your browser.
+Doplněk, který vám pomůže lépe využívat nastavení soukromí ve vašem prohlížeči.
 
 
