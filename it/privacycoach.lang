@@ -17,7 +17,7 @@ Non chiedere nuovamente per %S
 
 # Default warning message
 ;%S doesn't use https. You may want to change your default.
-%S non utilizza HTTPS. Potresti impostare un altro motore di ricerca come predefinito.
+%S non utilizza HTTPS. Dovresti impostare un altro motore di ricerca come predefinito.
 
 
 # Add engine warning message
@@ -27,17 +27,17 @@ Il motore di ricerca %S non utilizza HTTPS. Aggiungerlo ugualmente?
 
 # Do Not Track preference: Not set
 ;Do not tell sites anything about my tracking preferences
-Non comunica nulla ai siti riguardo le opzioni di tracciamento
+non comunicare nulla ai siti riguardo le opzioni di tracciamento
 
 
 # Do Not Track preference: No
 ;Tell sites that I do not want to be tracked
-Comunica ai siti di non effettuare il tracciamento
+comunica ai siti di non effettuare il tracciamento
 
 
 # Do Not Track preference: Yes
 ;Tell sites that I want to be tracked
-Comunica ai siti di effettuare il tracciamento
+comunica ai siti di effettuare il tracciamento
 
 
 # Cookie preference, first party only
@@ -47,12 +47,12 @@ Attivati, ma non per i siti di terze parti
 
 # Preference enabled
 ;Enabled
-Attivo
+attivo
 
 
 # Preference disabled
 ;Disabled
-Non attivo
+non attivo
 
 
 # Current value for a preference
@@ -138,7 +138,7 @@ Cookie
 
 
 ;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
-Un cookie è un’informazione memorizzata nel computer da un sito web che visiti. I cookie di terze parti sono dei cookie impostati da siti diversi da quello attualmente visualizzato nel browser. Alcuni inserzionisti pubblicitari utilizzano questo tipo di cookie per tenere traccia delle visite ai siti in cui offrono i loro servizi. Firefox consente di accettare o bloccare le richieste di memorizzazione dei cookie da parte dei siti, di cancellarli automaticamente alla chiusura e molto altro ancora.
+I cookie sono informazioni memorizzate nel computer da parte dei siti web visitati. I cookie di terze parti sono dei cookie impostati da siti diversi da quello attualmente visualizzato nel browser. Alcuni inserzionisti pubblicitari utilizzano questo tipo di cookie per tenere traccia delle visite ai siti in cui offrono i loro servizi. Firefox consente di accettare o bloccare le richieste di memorizzazione dei cookie da parte dei siti, di cancellarli automaticamente alla chiusura e molto altro ancora.
 
 
 ;Learn more about Cookies
@@ -194,7 +194,7 @@ Caratteristiche relative alla privacy
 
 
 ;In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
-In aggiunta alle impostazioni personalizzabili descritte in precedenza, in Firefox sono disponibili anche altri strumenti sviluppati per permetterti di mantenere i tuoi dati personali privati nell’uso quotidiano.
+In aggiunta alle impostazioni personalizzabili descritte in precedenza, in Firefox sono disponibili anche altri strumenti sviluppati per permetterti di mantenere al sicuro i tuoi dati personali nell’uso quotidiano.
 
 
 ;Private Browsing
@@ -202,7 +202,7 @@ Navigazione anonima
 
 
 ;When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
-Quando viene aperta una scheda in modalità navigazione anonima in Firefox per Android, non verranno memorizzati informazioni personali quali cookie di sessione, password o siti visitati. Puoi aprire una scheda in modalità navigazione anonima toccando l’icona menu del browser e selezionando “Nuova scheda anonima”.
+Quando si apre una scheda in modalità navigazione anonima in Firefox per Android non vengono memorizzati informazioni personali quali cookie di sessione, password o siti visitati. Puoi aprire una scheda in modalità navigazione anonima toccando l’icona menu del browser e selezionando “Nuova scheda anonima”.
 
 
 ;Learn more about Private Browsing
@@ -214,7 +214,7 @@ Navigazione in modalità ospite
 
 
 ;A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
-Una sessione in modalità ospite consente ad altre persone di utilizzare Firefox sul tuo dispositivo Android senza che abbiano accesso ai tuoi dati personali, quali password, segnalibri e cronologia di navigazione.
+Una sessione in modalità ospite consente ad altre persone di utilizzare Firefox sul tuo dispositivo Android senza che abbiano accesso a dati personali, quali password, segnalibri e cronologia di navigazione.
 
 
 ;Learn more about Guest Browsing
@@ -223,7 +223,7 @@ Ulteriori informazioni sulla navigazione in modalità ospite
 
 # Title
 ;Clear History and other data
-Cancellazione della cronologia o di altri dati personali
+Cancellazione della cronologia e altri dati personali
 
 
 ;Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
@@ -236,11 +236,11 @@ Scopri come cancellare la cronologia di navigazione
 
 # Title
 ;HTTPS Search
-Ricerche utilizzando HTTPS
+Ricerche via HTTPS
 
 
 ;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
-Per mantenere le tue ricerche anonime ti consigliamo di utilizzare solo motori di ricerca che implementano il protocollo sicuro HTTPS, che consente di cifrare le trasmissioni dei dati tra il browser e il server. Per mantenerti sempre informato, in Firefox vengono mostrati degli avvisi quando effettui delle ricerche o tenti di impostare come motore di ricerca predefinito un sito che utilizza il protocollo standard non sicuro HTTP. Potrai cambiare in qualunque momento il motore di ricerca predefinito nella pagina delle impostazioni per le ricerche.
+Per mantenere le tue ricerche al sicuro ti consigliamo di utilizzare solo motori di ricerca che supportino HTTPS, un protocollo di comunicazione sicuro in grado di cifrare le trasmissioni dei dati tra il browser e il server. Per garantire la tua sicurezza in Firefox vengono mostrati degli avvisi quando effettui delle ricerche o tenti di impostare come motore di ricerca predefinito un sito che utilizza il protocollo standard non sicuro HTTP. Potrai cambiare in qualunque momento il motore di ricerca predefinito nella pagina delle impostazioni per le ricerche.
 
 
 # Title
@@ -249,26 +249,26 @@ Alcuni componenti aggiuntivi
 
 
 ;We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
-Ci auguriamo che Privacy Coach ti sia stata utile e che la tua conoscenza delle impostazioni e delle caratteristiche in materia di privacy online sia aumentata. Se cerchi strumenti ancora più efficaci per avere maggiore controllo sui tuoi dati personali ti invitiamo a dare un’occhiata ai componenti aggiuntivi descritti qui di seguito.
+Ci auguriamo che Privacy Coach ti sia stato utile e che abbia contribuito a migliorare la tua conoscenza delle impostazioni e delle caratteristiche in materia di privacy online. Se cerchi strumenti ancora più efficaci per avere maggiore controllo sui tuoi dati personali ti invitiamo a dare un’occhiata ai componenti aggiuntivi descritti in seguito.
 
 
 # Description for 'Ghostery' add-on
 ;Protects your privacy by letting you see who's tracking your Web browsing and block them.
-Protegge la tua privacy mostrandoti quali sono i siti che ti stanno tracciando e ti permette di bloccarli.
+Protegge la tua privacy mostrando quali sono i siti che ti stanno tracciando e ti permette di bloccarli.
 
 
 # Description for 'HTTPS Everywhere' add-on
 ;Encrypts your communications with many major websites, making your browsing more secure.
-Assicura, per la maggior parte dei siti più popolari, che le comunicazioni vengano cifrate, in modo da aumentare la sicurezza della navigazione.
+Assicura che le comunicazioni con molti dei siti più popolari vengano cifrate, in modo da aumentare la sicurezza della navigazione.
 
 
 # Description for 'Self Destructing Cookies' add-on
 ;Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
-Consente di cancellare i cookie e le informazioni memorizzate dai siti utilizzando l’API Local Storage alla chiusura della scheda. Costituisce inoltre una protezione contro i tracker online e i cookie rigenerati tramite plugin (chiamati “cookie zombi”) e permette di creare delle liste di siti affidabili.
+Consente di cancellare i cookie e le informazioni memorizzate dai siti utilizzando l’API Local Storage alla chiusura della scheda. Costituisce inoltre una protezione contro i tracker online e i cookie rigenerati, anche noti come “cookie zombi”, e permette di creare delle liste di siti affidabili.
 
 
 ;For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
-Per scoprirne altri, puoi visitare la sezione <a>Sicurezza e Privacy</a> del nostro sito dedicato ai componenti aggiuntivi »
+Per scoprirne altri puoi visitare la sezione <a>Sicurezza e Privacy</a> del nostro sito dedicato ai componenti aggiuntivi »
 
 
 # Button for privacy settings
@@ -283,7 +283,7 @@ Impostazioni Mozilla
 
 # Search button
 ;Search Settings
-Impostazioni delle ricerche
+Impostazioni di ricerca
 
 
 ;Learn More
