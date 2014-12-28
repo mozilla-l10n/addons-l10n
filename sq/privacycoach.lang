@@ -126,7 +126,7 @@ Mos Më Gjurmo
 
 
 ;This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
-Kjo risi e Firefox-it ju lejon të ruani kontrollin mbi se si grumbullohen dhe përdoren të dhënat e shfletimit tuaj. Kur veçoria është e aktivizuar, Firefox-i do t’u thotë rrjeteve të reklamave, sajteve web dhe zbatimeve se dëshironi të liheni jashtë nga gjurmimet e bëra në funksion të reklamave të bazuara në zakonet e përdoruesit.
+Kjo risi e Firefox-it ju lejon të ruani kontrollin mbi se si grumbullohen dhe përdoren të dhënat e shfletimit tuaj. Kur veçoria është e aktivizuar, Firefox-i do t’u thotë rrjeteve të reklamave, sajteve dhe zbatimeve se dëshironi të liheni jashtë nga gjurmimet e bëra në funksion të reklamave të bazuara në zakonet e përdoruesit.
 
 
 ;Learn more about Do Not Track
@@ -138,7 +138,7 @@ Cookie-t
 
 
 ;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
-Cookie-t janë copëza të dhënash të depozituara në kompjuterin tuaj nga sajtet që vizitoni. Cookie palësh të treta janë ato të depozituara prej një sajti tjetër nga ai ku ndodheni aktualisht. Disa reklamues i përdorin këto lloje cookie-sh për të ndjekur vizitat tuaja në sajte web te të cilët ata kanë reklama. Firefox-i ka rregullime që ju lejojnë të miratoni ose hidhni tej kërkesa për depozitim cookie-sh, të fshini cookie-t automatikisht, etj.
+Cookie-t janë copëza të dhënash të depozituara në kompjuterin tuaj nga sajtet që vizitoni. Cookie palësh të treta janë ato të depozituara prej një sajti tjetër nga ai ku ndodheni aktualisht. Disa reklamues i përdorin këto lloje cookie-sh për të ndjekur vizitat tuaja në sajte te të cilët ata kanë reklama. Firefox-i ka rregullime që ju lejojnë të miratoni ose hidhni tej kërkesa për depozitim cookie-sh, të fshini cookie-t automatikisht, etj.
 
 
 ;Learn more about Cookies
@@ -259,7 +259,7 @@ Mbron privatësinë tuaj duke ju lejuar të shihni se kush po e gjurmon shfletim
 
 # Description for 'HTTPS Everywhere' add-on
 ;Encrypts your communications with many major websites, making your browsing more secure.
-Kodon komunikimet tuaja me mjaft nga sajtet e njohur web, duke e bërë shfletimin tuaj më të sigurt.
+Fshehtëzon komunikimet tuaja me mjaft nga sajtet e njohur, duke e bërë shfletimin tuaj më të sigurt.
 
 
 # Description for 'Self Destructing Cookies' add-on
