@@ -111,6 +111,7 @@ de Mozilla
 ;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
 Bienvenido a Privacy Coach, tu punto de referencia para conocer y gestionar los ajustes de privacidad de tu Firefox para Android. Puedes volver a visitar esta página en cualquier momento abriendo el menú "Herramientas" de tu navegador.
 
+
 # Title for preferences
 ;Privacy Preferences
 Preferencias de privacidad
@@ -292,3 +293,5 @@ Saber más
 # This is the description of the extension for the Add-on manager
 ;Add-on that helps you use privacy features in your browser.
 Complemento que te ayuda a usar características de privacidad en tu navegador.
+
+
