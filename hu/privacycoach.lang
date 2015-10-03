@@ -1,4 +1,4 @@
-﻿## NOTE: screenshot https://l10n.mozilla-community.org/~pascalc/screenshots/privacycoach/Firefox%20Privacy%20Coach.png
+## NOTE: screenshot https://l10n.mozilla-community.org/~pascalc/screenshots/privacycoach/Firefox%20Privacy%20Coach.png
 
 
 # Title of the Application
@@ -23,6 +23,7 @@ A(z) %S nem használ htpps-t. Lehet, hogy meg szeretné változtatni az alapért
 # Add engine warning message
 ;%S doesn't use https. Are you sure you want to add this search engine?
 A(z) %S nem használ https-t. Biztosan hozzá szeretné adni ezt a keresőszolgáltatást?
+
 
 # Do Not Track preference: Not set
 ;Do not tell sites anything about my tracking preferences
@@ -151,7 +152,7 @@ Firefox Állapotjelentés
 ;Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
 A Firefox Állapotjelentés információt nyújt böngészőjének teljesítményéről és stabilitásáról az idő múlásával. Ez aztán az adatokra támaszkodva hasznos javaslatokat kínál, ami abban segít, hogy a legjobb felhasználói élményt érje el a böngészésben. Ismerje meg, hogyan kezeljük az <a>adatvédelmi irányelv</a>ünnek megfelelően, a hozzánk küldött adatait.
 
- 
+
 ;Learn more about Firefox Health Report
 Tudjon meg többet a Firefox Állapotjelentésről
 
@@ -161,12 +162,12 @@ Telemetria
 
 
 ;Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
-A telemetria felméri és összegyűjti a nem személyes információkat a Firefox teljesítményéről - úgy mint memória felhasználás, a böngésző sebessége és a funkciók használata - majd elküldi a Mozillának.
-Ezt az információt arra használjuk, hogy a Firefoxot jobbá tegyük.
+A telemetria felméri és összegyűjti a nem személyes információkat a Firefox teljesítményéről - úgy mint memória felhasználás, a böngésző sebessége és a funkciók használata - majd elküldi a Mozillának. Ezt az információt arra használjuk, hogy a Firefoxot jobbá tegyük.
 
 
 ;Learn more about Telemetry
 Tudjon meg többet a telemetriáról
+
 
 ;Crash Reporter
 Hibajelentő
@@ -183,20 +184,17 @@ Tudjon meg többet a Hibabejelentőről
 ;Mozilla Location Services
 Mozilla Helymeghatározó Szolgáltatás
 
+
 ;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
 A Mozilla Helymeghatározó Szolgáltatás megoszt közeli Wi-Fi és mobil helyeket a Mozillával azért, hogy segítse a földrajzi helymeghatározó szolgáltatásunkat.
-
 
 
 ;Privacy Features
 Adatvédelmi funkciók
 
+
 ;In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
 A fent említett testreszabható adatvédelmi beállítások mellett a Firefox tartalmaz néhány adatvédelmi funkciót, amit bármikor tud használni, hogy böngészési adatait biztonságban tartsa.
-
-
-
-
 
 
 ;Private Browsing
@@ -207,63 +205,62 @@ Privát böngészés
 A Privát Böngészés fül nyitva tartásakor a Firefox for Android nem fogad el a sütiket, nem jegyez meg jelszavakat és nem rögzíti a meglátogatott oldalakat az Előzményekben. A Privát Böngészés munkamenet a menüsorból nyitható meg az Új Privát Ablak feliratra kattintva.
 
 
-
 ;Learn more about Private Browsing
 Tudjon meg többet a Privát böngészésről
 
 
-#Guest Browsing
+;Guest Browsing
+Guest Browsing
+
+
 ;A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
 A Vendég Böngészés munkamenet lehetővé teszi, hogy valaki más használja a Firefoxot az Ön Android eszközén anélkül, hogy látna személyes információkat, úgymint jelszavakat, könyvjelzőket és az előzményeket.
-
-
-
-
 
 
 ;Learn more about Guest Browsing
 Tudjon meg többet a Vendég Böngészésről
 
+
 # Title
 ;Clear History and other data
 Az előzmények és egyéb adatok törlése
+
 
 ;Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
 Bármikor könnyedén törölheti személyes adatait, úgy mint előzmények, jelszavak és egyebek. Az adatvédelmi beállításokban szintén bármikor kitörölheti a személyes adatait.
 
 
-
-
 ;Learn how to clear your history
 Tanulja meg, hogyan kell törölni az előzményeket
+
 
 # Title
 ;HTTPS Search
 A HTTPS keresés
 
+
 ;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
 Az online keresések biztonságosságának érdekében javasoljuk, hogy csak olyan keresőszolgáltatást használjon, amelyik támogatja a HTTPS-t, ami egy biztonságos kommunikációs protokoll. Firefox figyelmezteti Önt, ha HTTP keresőszolgáltatást szeretne alapértelmezettként használni. Bármikor megváltoztathatja alapértelmezett keresőszolgáltatását a keresési beállításokban.
-
-
 
 
 # Title
 ;Additional Add-ons
 További kiegészítők
 
+
 ;We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
 Reméljük, hogy hasznosnak találta a Firefox Adatvédelmi Mentort és jobban megérti a böngésző adatvédelmi funkcióit és beállításait. Ha még ennél is jobban szeretné kontrollálni a személyes adatokat böngészésével kapcsolatban, akkor ajánljuk figyelmébe az alábbi kiegészítőket.
+
 
 # Description for 'Ghostery' add-on
 ;Protects your privacy by letting you see who's tracking your Web browsing and block them.
 Adatvédelmi feladatokat lát el úgy, hogy láthatóvá teszi, kik követik le a böngészési szokásait, és Ön ezeket le tudja állítani.
 
 
-
-
 # Description for 'HTTPS Everywhere' add-on
 ;Encrypts your communications with many major websites, making your browsing more secure.
 Titkosítja a kommunikációját számos fontosabb weboldallal, biztonságosabbá téve a böngészést.
+
 
 # Description for 'Self Destructing Cookies' add-on
 ;Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
@@ -273,19 +270,20 @@ Eltávolíthatja a számítógépen tárolt sütiket, amint becsukja valamelyik 
 ;For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
 Továbbá, felfedezheti a <a>biztonsági és adatvédelmi kiegészítők teljes állományát »</a>.
 
+
 # Button for privacy settings
 ;Privacy Settings
 Adatvédelmi beállítások
+
 
 # Button for general Mozilla settings
 ;Mozilla Settings
 Mozilla beállítások
 
+
 # Search button
 ;Search Settings
 Keresési beállítások
-
-
 
 
 ;Learn More
@@ -295,4 +293,5 @@ További információ
 # This is the description of the extension for the Add-on manager
 ;Add-on that helps you use privacy features in your browser.
 Kiegészítő, ami segít a böngésző adatvédelmi funkcióinak használatában
+
 
