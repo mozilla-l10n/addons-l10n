@@ -84,7 +84,7 @@ Javítsa böngészőjének teljesítményét a Firefox Állapotjelentésben lév
 
 # Link to https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
 ;Discover how Firefox for Android blocks unsecure or mixed content from otherwise secure Web pages »
-Fedezze fel, hogy a Firefox for Android hogyan tiltja le a nem biztonságos tartalmakat az egyébként megbízható weboldalakról    »
+Fedezze fel, hogy a Firefox for Android hogyan tiltja le a nem biztonságos tartalmakat az egyébként megbízható weboldalakról »
 
 
 # Link to https://support.mozilla.org/kb/share-your-android-device-firefox-guest-session
@@ -173,7 +173,7 @@ Hibajelentő
 
 
 ;The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
-A Hibabejelentő lehetőséget ad Önnek arra, hogy hibákat jelentsen be a Mozillának segítve minket azzal, hogy a Firefoxot stabilabbá és biztonságosabbá tegyük. A Hibabejelentő tartalmazhat személyes adatokat is, például az Ön által látogatott url-ek.
+A Hibabejelentő lehetőséget ad Önnek arra, hogy hibákat jelentsen be a Mozillának segítve minket azzal, hogy a Firefoxot stabilabbá és biztonságosabbá tegyük. A Hibabejelentő tartalmazhat személyes adatokat is, például az Ön által látogatott URL-ek.
 
 
 ;Learn more about Crash Reporter
@@ -252,7 +252,7 @@ Az online keresések biztonságosságának érdekében javasoljuk, hogy csak oly
 További kiegészítők
 
 ;We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
-Reméljuk, hogy hasznosnak találta a Firefox Adatvédelmi Mentort és jobban megérti a böngésző adatvédelmi funkcióit és beállításait. Ha még ennél is jobban szeretné kontrollálni a személyes adatokat böngészésével kapcsolatban, akkor ajánljuk figyelmébe az alábbi kiegészítőket.
+Reméljük, hogy hasznosnak találta a Firefox Adatvédelmi Mentort és jobban megérti a böngésző adatvédelmi funkcióit és beállításait. Ha még ennél is jobban szeretné kontrollálni a személyes adatokat böngészésével kapcsolatban, akkor ajánljuk figyelmébe az alábbi kiegészítőket.
 
 # Description for 'Ghostery' add-on
 ;Protects your privacy by letting you see who's tracking your Web browsing and block them.
