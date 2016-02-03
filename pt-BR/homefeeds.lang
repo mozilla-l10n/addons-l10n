@@ -1,0 +1,29 @@
+## NOTE: add-on is https://addons.mozilla.org/en-US/android/addon/home-feeds/
+
+
+# Add-on description displayed in Firefox preferences
+;Allows you to subscribe to feeds on your home page.
+Permite que você se inscreva em feeds diretamente na sua página inicial.
+
+
+# Label for page action item
+;Subscribe to page
+Inscrever
+
+
+# Title for subscribe prompt
+;Subscribe with
+Inscrever-se com
+
+
+# Toast notification that appears after the user subscribes to a feed
+# %S is replaced with the brandShortName string.
+;Feed added to %S homepage
+Feed adicionado à homepage %S
+
+
+# Toast notification that appears if a panel already exists for the feed
+;This feed is already on your homepage
+Este feed já está na sua homepage
+
+

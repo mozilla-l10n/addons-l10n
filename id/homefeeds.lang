@@ -1,0 +1,29 @@
+## NOTE: add-on is https://addons.mozilla.org/en-US/android/addon/home-feeds/
+
+
+# Add-on description displayed in Firefox preferences
+;Allows you to subscribe to feeds on your home page.
+Dapat digunakan untuk berlangganan umpan ke laman beranda Anda.
+
+
+# Label for page action item
+;Subscribe to page
+Berlangganan laman
+
+
+# Title for subscribe prompt
+;Subscribe with
+Berlangganan dengan
+
+
+# Toast notification that appears after the user subscribes to a feed
+# %S is replaced with the brandShortName string.
+;Feed added to %S homepage
+Umpan ditambahkan ke beranda %S
+
+
+# Toast notification that appears if a panel already exists for the feed
+;This feed is already on your homepage
+Umpan ini sudah ada di beranda Anda
+
+

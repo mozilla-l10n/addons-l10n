@@ -1,0 +1,28 @@
+## NOTE: add-on is https://addons.mozilla.org/en-US/android/addon/home-feeds/
+
+
+# Add-on description displayed in Firefox preferences
+;Allows you to subscribe to feeds on your home page.
+このアドオンを利用すると、ホーム画面でフィードを表示できるようになります。
+
+
+# Label for page action item
+;Subscribe to page
+このページを購読する
+
+
+# Title for subscribe prompt
+;Subscribe with
+購読しますか？
+
+
+# Toast notification that appears after the user subscribes to a feed
+# %S is replaced with the brandShortName string.
+;Feed added to %S homepage
+%S がホーム画面へ追加されました
+
+
+# Toast notification that appears if a panel already exists for the feed
+;This feed is already on your homepage
+このフィードは既にホーム画面に追加されています
+

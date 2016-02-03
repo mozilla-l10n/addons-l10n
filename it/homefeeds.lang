@@ -1,0 +1,28 @@
+## NOTE: add-on is https://addons.mozilla.org/en-US/android/addon/home-feeds/
+
+
+# Add-on description displayed in Firefox preferences
+;Allows you to subscribe to feeds on your home page.
+Consente di abbonarsi a un feed e visualizzarlo nella schermata iniziale di Firefox.
+
+
+# Label for page action item
+;Subscribe to page
+Abbonati alla pagina
+
+
+# Title for subscribe prompt
+;Subscribe with
+Abbonati al feed RSS utilizzando
+
+
+# Toast notification that appears after the user subscribes to a feed
+# %S is replaced with the brandShortName string.
+;Feed added to %S homepage
+Feed aggiunto alla schermata iniziale di %S
+
+
+# Toast notification that appears if a panel already exists for the feed
+;This feed is already on your homepage
+Questo feed è già presente nella schermata iniziale
+

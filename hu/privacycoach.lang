@@ -1,0 +1,297 @@
+## NOTE: screenshot https://l10n.mozilla-community.org/~pascalc/screenshots/privacycoach/Firefox%20Privacy%20Coach.png
+
+
+# Title of the Application
+;Privacy Coach
+Adatvédelmi mentor
+
+
+# Warns you if your search engine (%S is the search engine name) ddesn't use HTTPS
+;%S doesn't use https. Are you sure you want to continue?
+A(z) %S nem használ https-t. Szeretné folytatni?
+
+
+;Don't ask me again for %S
+Ne kérdezzen többször erről %S
+
+
+# Default warning message
+;%S doesn't use https. You may want to change your default.
+A(z) %S nem használ htpps-t. Lehet, hogy meg szeretné változtatni az alapértelmezett beállításait.
+
+
+# Add engine warning message
+;%S doesn't use https. Are you sure you want to add this search engine?
+A(z) %S nem használ https-t. Biztosan hozzá szeretné adni ezt a keresőszolgáltatást?
+
+
+# Do Not Track preference: Not set
+;Do not tell sites anything about my tracking preferences
+Nem szeretném, hogy a weboldalak lássák a követési beállításaimat
+
+
+# Do Not Track preference: No
+;Tell sites that I do not want to be tracked
+Nem szeretném, hogy a weboldalak kövessenek
+
+
+# Do Not Track preference: Yes
+;Tell sites that I want to be tracked
+Szeretném, hogy a weboldalak kövessenek
+
+
+# Cookie preference, first party only
+;Enabled, excluding 3rd party
+Engedélyezett, harmadik fél kizárásával
+
+
+# Preference enabled
+;Enabled
+Engedélyezett
+
+
+# Preference disabled
+;Disabled
+Letiltott
+
+
+# Current value for a preference
+;Current setting: %S
+Jelenlegi beállítások: %S
+
+
+;Your default search engine (%S) uses HTTPS. Search away!
+Alapértelmezett keresőszolgáltatása (%S) HTTPS-t használ. Keressen bátran!
+
+
+;Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
+Alapértelmezett keresőszolgáltatása (%S) nem használ HTTPS-t — fontolja meg, hogy most lecseréli.
+
+
+# Link to https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-dat
+;Discover all the ways you can clear your personal browsing data from Firefox »
+Fedezze fel az összes lehetséges módszert arra, hogy kitörölje személyes böngészési adatait a Firefox-ból »
+
+
+# Link to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
+;Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
+Tudjon meg többet arról, hogyan alkothat megbízható, könnyen felidézhető jelszót online identitásának biztonsága érdekében »
+
+
+# Link to https://support.mozilla.org/kb/firefox-health-report-understand-your-android-browser-perf
+;Improve your browser’s performance with tips from your Firefox Health Report. Learn more »
+Javítsa böngészőjének teljesítményét a Firefox Állapotjelentésben lévő javaslatok segítségével. Tudjon meg többet »
+
+
+# Link to https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
+;Discover how Firefox for Android blocks unsecure or mixed content from otherwise secure Web pages »
+Fedezze fel, hogy a Firefox for Android hogyan tiltja le a nem biztonságos tartalmakat az egyébként megbízható weboldalakról »
+
+
+# Link to https://support.mozilla.org/kb/share-your-android-device-firefox-guest-session
+;Guest browsing is a great way to share your browser without sharing your private info. Learn more »
+Vendég móddal való böngészés nagyszerű megoldás arra, hogy megossza böngészőjét személyes információinak megosztása nélkül. Tudjon meg többet »
+
+
+# Link to https://support.mozilla.org/kb/mobile-private-browsing-browse-web-without-saving-syncing-info
+;Private browsing lets you search the Web without your personal data being stored. Learn more »
+A privát böngészés lehetővé teszi a webes kereséseket személyes adatainak eltárolása nélkül. Tudjon meg többet »
+
+
+# Welcome title
+;Firefox Privacy Coach
+Firefox Adatvédelmi mentor
+
+
+# Welcome sub-title
+;by Mozilla
+készítette: Mozilla
+
+
+;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
+Üdvözöljük az Adatvédelmi mentor oldalán, amely egy információs tárház, ahol megtanulhatja az adatvédelmi beállítások kezelését. Bármikor visszatérhet ehhez az oldalhoz az Eszközök menü böngészőben való megnyitásakor.
+
+
+# Title for preferences
+;Privacy Preferences
+Adatvédelmi beállítások
+
+
+;Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
+A Firefox lehetővé teszi különböző beállítások testreszabását azért, hogy Ön a böngészést annyira privátnak és biztonságosnak érezze, amennyire csak lehetséges. Az alábbi listát részekre osztottuk, hogy elmagyarázzuk, mit csinálnak, és segítsünk abban, hogy felismerje, melyik beállítás megfelelő az Ön számára.
+
+
+;Do Not Track
+Nem akarom, hogy a webhelyek kövessenek
+
+
+;This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
+Ez a Firefox újítás segíti Önt abban, hogy ellenőrizni tudja, hogyan tárolódnak és hogyan kerülnek felhasználásra információk arról, milyen oldalakat böngészett. Ha a funkciót bekapcsolta, akkor a Firefox tudatja a hálózatokkal, weboldalakkal és alkalmazásokkal, hogy Ön szeretné elkerülni az adataival való üzérkedést – amelyek például a személyre szabott hirdetéseket lehetővé teszik.
+
+
+;Learn more about Do Not Track
+Tudjon meg többet a „Nem akarom, hogy a webhelyek kövessenek” funkcióról
+
+
+;Cookies
+Sütik
+
+
+;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
+A süti az az információ, amit a gépe tárol az ön által látogatott weboldalakról. A harmadik fél oldaláról származó sütiket olyan weboldalak állítottak be, amelyeket esetleg sosem látogatott meg. Néhány hirdető arra használja ezeket a sütiket, hogy lekövesse az ön látogatásait azokra az oldalakra, ahol a hirdetéseiket elhelyezik. A Firefoxnak vannak olyan beállításai, amelyek lehetővé teszik, hogy elfogadja vagy elutasítsa a sütik tárolásra irányuló kéréseit, automatikusan kitörölve őket és így tovább.
+
+
+;Learn more about Cookies
+Tudjon meg többet a Sütikről
+
+
+;Firefox Health Report
+Firefox Állapotjelentés
+
+
+;Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
+A Firefox Állapotjelentés információt nyújt böngészőjének teljesítményéről és stabilitásáról az idő múlásával. Ez aztán az adatokra támaszkodva hasznos javaslatokat kínál, ami abban segít, hogy a legjobb felhasználói élményt érje el a böngészésben. Ismerje meg, hogyan kezeljük az <a>adatvédelmi irányelv</a>ünnek megfelelően, a hozzánk küldött adatait.
+
+
+;Learn more about Firefox Health Report
+Tudjon meg többet a Firefox Állapotjelentésről
+
+
+;Telemetry
+Telemetria
+
+
+;Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
+A telemetria felméri és összegyűjti a nem személyes információkat a Firefox teljesítményéről - úgy mint memória felhasználás, a böngésző sebessége és a funkciók használata - majd elküldi a Mozillának. Ezt az információt arra használjuk, hogy a Firefoxot jobbá tegyük.
+
+
+;Learn more about Telemetry
+Tudjon meg többet a telemetriáról
+
+
+;Crash Reporter
+Hibajelentő
+
+
+;The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
+A Hibabejelentő lehetőséget ad Önnek arra, hogy hibákat jelentsen be a Mozillának segítve minket azzal, hogy a Firefoxot stabilabbá és biztonságosabbá tegyük. A Hibabejelentő tartalmazhat személyes adatokat is, például az Ön által látogatott URL-ek.
+
+
+;Learn more about Crash Reporter
+Tudjon meg többet a Hibabejelentőről
+
+
+;Mozilla Location Services
+Mozilla Helymeghatározó Szolgáltatás
+
+
+;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
+A Mozilla Helymeghatározó Szolgáltatás megoszt közeli Wi-Fi és mobil helyeket a Mozillával azért, hogy segítse a földrajzi helymeghatározó szolgáltatásunkat.
+
+
+;Privacy Features
+Adatvédelmi funkciók
+
+
+;In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
+A fent említett testreszabható adatvédelmi beállítások mellett a Firefox tartalmaz néhány adatvédelmi funkciót, amit bármikor tud használni, hogy böngészési adatait biztonságban tartsa.
+
+
+;Private Browsing
+Privát böngészés
+
+
+;When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
+A Privát Böngészés fül nyitva tartásakor a Firefox for Android nem fogad el a sütiket, nem jegyez meg jelszavakat és nem rögzíti a meglátogatott oldalakat az Előzményekben. A Privát Böngészés munkamenet a menüsorból nyitható meg az Új Privát Ablak feliratra kattintva.
+
+
+;Learn more about Private Browsing
+Tudjon meg többet a Privát böngészésről
+
+
+;Guest Browsing
+Vendég böngészés
+
+
+;A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
+A Vendég Böngészés munkamenet lehetővé teszi, hogy valaki más használja a Firefoxot az Ön Android eszközén anélkül, hogy látna személyes információkat, úgymint jelszavakat, könyvjelzőket és az előzményeket.
+
+
+;Learn more about Guest Browsing
+Tudjon meg többet a Vendég Böngészésről
+
+
+# Title
+;Clear History and other data
+Az előzmények és egyéb adatok törlése
+
+
+;Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
+Bármikor könnyedén törölheti személyes adatait, úgy mint előzmények, jelszavak és egyebek. Az adatvédelmi beállításokban szintén bármikor kitörölheti a személyes adatait.
+
+
+;Learn how to clear your history
+Tanulja meg, hogyan kell törölni az előzményeket
+
+
+# Title
+;HTTPS Search
+A HTTPS keresés
+
+
+;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
+Az online keresések biztonságosságának érdekében javasoljuk, hogy csak olyan keresőszolgáltatást használjon, amelyik támogatja a HTTPS-t, ami egy biztonságos kommunikációs protokoll. Firefox figyelmezteti Önt, ha HTTP keresőszolgáltatást szeretne alapértelmezettként használni. Bármikor megváltoztathatja alapértelmezett keresőszolgáltatását a keresési beállításokban.
+
+
+# Title
+;Additional Add-ons
+További kiegészítők
+
+
+;We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
+Reméljük, hogy hasznosnak találta a Firefox Adatvédelmi Mentort és jobban megérti a böngésző adatvédelmi funkcióit és beállításait. Ha még ennél is jobban szeretné kontrollálni a személyes adatokat böngészésével kapcsolatban, akkor ajánljuk figyelmébe az alábbi kiegészítőket.
+
+
+# Description for 'Ghostery' add-on
+;Protects your privacy by letting you see who's tracking your Web browsing and block them.
+Adatvédelmi feladatokat lát el úgy, hogy láthatóvá teszi, kik követik le a böngészési szokásait, és Ön ezeket le tudja állítani.
+
+
+# Description for 'HTTPS Everywhere' add-on
+;Encrypts your communications with many major websites, making your browsing more secure.
+Titkosítja a kommunikációját számos fontosabb weboldallal, biztonságosabbá téve a böngészést.
+
+
+# Description for 'Self Destructing Cookies' add-on
+;Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
+Eltávolíthatja a számítógépen tárolt sütiket, amint becsukja valamelyik fület. Továbbá védelmet nyújt a lekövetők ellen és a lehetővé teszi, hogy engedélyezzen olyan szolgáltatásokat, amelyek köztudottan megbízhatóak.
+
+
+;For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
+Továbbá, felfedezheti a <a>biztonsági és adatvédelmi kiegészítők teljes állományát »</a>.
+
+
+# Button for privacy settings
+;Privacy Settings
+Adatvédelmi beállítások
+
+
+# Button for general Mozilla settings
+;Mozilla Settings
+Mozilla beállítások
+
+
+# Search button
+;Search Settings
+Keresési beállítások
+
+
+;Learn More
+További információ
+
+
+# This is the description of the extension for the Add-on manager
+;Add-on that helps you use privacy features in your browser.
+Kiegészítő, ami segít a böngésző adatvédelmi funkcióinak használatában
+
+

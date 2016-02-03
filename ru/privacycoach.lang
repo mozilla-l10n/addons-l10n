@@ -1,0 +1,297 @@
+## NOTE: screenshot https://l10n.mozilla-community.org/~pascalc/screenshots/privacycoach/Firefox%20Privacy%20Coach.png
+
+
+# Title of the Application
+;Privacy Coach
+Тренер по приватности
+
+
+# Warns you if your search engine (%S is the search engine name) ddesn't use HTTPS
+;%S doesn't use https. Are you sure you want to continue?
+%S не использует https. Вы уверены, что хотите продолжить?
+
+
+;Don't ask me again for %S
+Не спрашивать меня снова для %S
+
+
+# Default warning message
+;%S doesn't use https. You may want to change your default.
+%S не использует https. Вы можете захотеть изменить свой выбор по умолчанию.
+
+
+# Add engine warning message
+;%S doesn't use https. Are you sure you want to add this search engine?
+%S не использует https. Вы уверены, что хотите добавить эту поисковую систему?
+
+
+# Do Not Track preference: Not set
+;Do not tell sites anything about my tracking preferences
+Не сообщать сайтам ничего о моих настройках отслеживания
+
+
+# Do Not Track preference: No
+;Tell sites that I do not want to be tracked
+Сообщать сайтам, что я не хочу, чтобы меня отслеживали
+
+
+# Do Not Track preference: Yes
+;Tell sites that I want to be tracked
+Сообщать сайтам, что я хочу, чтобы меня отслеживали
+
+
+# Cookie preference, first party only
+;Enabled, excluding 3rd party
+Включено, кроме сторонних сайтов
+
+
+# Preference enabled
+;Enabled
+Включено
+
+
+# Preference disabled
+;Disabled
+Отключено
+
+
+# Current value for a preference
+;Current setting: %S
+Текущее значение: %S
+
+
+;Your default search engine (%S) uses HTTPS. Search away!
+Ваша поисковая система по умолчанию (%S) использует HTTPS. Вперёд!
+
+
+;Your default search engine (%S) doesn't use HTTPS — you should consider changing it now.
+Ваша поисковая система по умолчанию (%S) не использует HTTPS — вам следует подумать, не сменить ли её.
+
+
+# Link to https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-dat
+;Discover all the ways you can clear your personal browsing data from Firefox »
+Узнайте обо всех способах удаления личных данных веб-сёрфинга из Firefox »
+
+
+# Link to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
+;Learn how to create secure, easy-to-remember passwords to keep your online identity safe »
+Узнайте, как создать безопасные, легко запоминающиеся пароли, чтобы защитить свои данные »
+
+
+# Link to https://support.mozilla.org/kb/firefox-health-report-understand-your-android-browser-perf
+;Improve your browser’s performance with tips from your Firefox Health Report. Learn more »
+Повысьте производительность браузера с советами от Отчёта о здоровье Firefox. Подробнее »
+
+
+# Link to https://support.mozilla.org/kb/how-does-insecure-content-affect-safety-android
+;Discover how Firefox for Android blocks unsecure or mixed content from otherwise secure Web pages »
+Узнайте, как Firefox блокирует незащищённое или смешанное содержимое с почти безопасных веб-страниц »
+
+
+# Link to https://support.mozilla.org/kb/share-your-android-device-firefox-guest-session
+;Guest browsing is a great way to share your browser without sharing your private info. Learn more »
+Гостевая сессия — отличный способ поделиться браузером, не делясь личными данными. Подробнее »
+
+
+# Link to https://support.mozilla.org/kb/mobile-private-browsing-browse-web-without-saving-syncing-info
+;Private browsing lets you search the Web without your personal data being stored. Learn more »
+Приватный просмотр позволяет выполнять поиск в Интернете, не сохраняя личные данные. Подробнее »
+
+
+# Welcome title
+;Firefox Privacy Coach
+Тренер по приватности Firefox
+
+
+# Welcome sub-title
+;by Mozilla
+от Mozilla
+
+
+;Welcome to Privacy Coach, your one-stop shop to learn about and manage your Firefox for Android privacy settings. You can revisit this page at any time by opening the Tools menu in your browser.
+Добро пожаловать в Тренер по приватности Firefox, единый центр обучения и управления настройками приватности Firefox для Android. Вы можете вернуться на эту страницу в любой момент, открыв меню Инструменты в вашем браузере.
+
+
+# Title for preferences
+;Privacy Preferences
+Настройки приватности
+
+
+;Firefox allows you to customize various settings in an effort to make your browsing experience as private and secure as possible. We’ve broken down this list of preferences to explain what they do and to help you figure out which settings are right for you.
+Firefox позволяет вам настроить различные параметры, чтобы сделать работу в Интернете как можно более приватной и безопасной. Мы разбили этот список настроек на пункты, чтобы объяснить, что они делают, и помочь вам понять, какие значения для вас правильны.
+
+
+;Do Not Track
+Не-Следи-за-Мной
+
+
+;This Firefox innovation helps you stay in control of how your browsing information is collected and used online. When the feature is enabled, Firefox will tell advertising networks, websites and applications that you want to opt out of tracking for purposes like behavioral advertising.
+Это нововведение Firefox поможет вам осуществлять контроль над тем, как собирается и используется ваша информация при веб-сёрфинге. Когда эта функция включена, Firefox будет сообщать рекламным сетям, веб-сайтам и приложениям, что вы не хотите, чтобы ваше поведение отслеживали, например для осуществления поведенческой рекламы.
+
+
+;Learn more about Do Not Track
+Узнать больше о Не-Следи-за-Мной
+
+
+;Cookies
+Куки
+
+
+;A cookie is information stored on your computer about the websites you visit. Third-party cookies are those set by a website other than the one you are currently on. Some advertisers use these types of cookies to track your visits to the websites on which they advertise. Firefox has settings that allow you to approve or deny cookie storage requests, delete cookies automatically and more.
+Куки — это информация, хранящаяся на вашем компьютере о посещаемых вами веб-сайтах. Куки со сторонних сайтов — это куки, установленные веб-сайтом, отличным от того, на котором вы в настоящее время находитесь. Некоторые рекламодатели используют эти типы куков, чтобы отслеживать посещение вами веб-сайтов, на которых они размещают рекламу. Firefox имеет настройки, позволяющие одобрять или отклонять запросы на хранение куков, автоматически удалять куки и другие.
+
+
+;Learn more about Cookies
+Узнать больше о Куках
+
+
+;Firefox Health Report
+Отчёт о здоровье Firefox
+
+
+;Firefox Health Report provides you with information about your browser’s performance and stability over time. It then gives you useful tips based on that data to help you get the most out of your browsing experience. For more information about how we handle your data, see our <a>privacy policy</a>.
+Отчёт о здоровье Firefox предоставляет вам информацию о производительности и стабильности браузера с течением времени. На основе этих данных он дает полезные советы, чтобы помочь вам получить от веб-сёрфинга в Интернете максимальную отдачу. Для получения дополнительной информации о том, как мы обращаемся с вашими данными, прочтите нашу <a>политику приватности</a>.
+
+
+;Learn more about Firefox Health Report
+Узнать больше об Отчёте о здоровье Firefox
+
+
+;Telemetry
+Телеметрия
+
+
+;Telemetry measures and collects non-personal information about the performance of your Firefox browser — such as memory consumption, browser speed and feature usage — and sends it to Mozilla. That information is then used to help us make Firefox better for you.
+Телеметрия измеряет и собирает обезличенную информацию о производительности вашего браузера Firefox — такую как потребление памяти, скорость браузера и использование функций — отправляет её в Mozilla. Затем эта информация используется, чтобы помочь нам сделать Firefox для вас лучше.
+
+
+;Learn more about Telemetry
+Узнать больше о Телеметрии
+
+
+;Crash Reporter
+Сообщения о падениях
+
+
+;The Crash Reporter gives you the opportunity to submit crash reports to Mozilla in an effort to help us make Firefox more stable and secure. A crash report may include some personal data, such as the URLs you've visited.
+Сообщения о падениях дают вам возможность отправлять сообщения о падениях в Mozilla, чтобы помочь нам сделать Firefox более стабильным и безопасным. Сообщение о падении может включать в себя некоторые персональные данные, такие как посещённый вами URL.
+
+
+;Learn more about Crash Reporter
+Узнать больше о Сообщениях о падениях
+
+
+;Mozilla Location Services
+Службы местоположения Mozilla
+
+
+;Mozilla Location Services shares approximate Wi-Fi and cellular location with Mozilla to help improve our geolocation service.
+Службы местоположения Mozilla делятся приблизительным местоположением Wi-Fi и сотовой сети с Mozilla, чтобы помочь улучшить нашу службу геолокации.
+
+
+;Privacy Features
+Обеспечение приватности
+
+
+;In addition to the customizable privacy preferences above, Firefox also includes several privacy features that you can use everyday to help keep your personal browsing data private.
+В дополнение к описанным выше изменяемым настройкам приватности, Firefox также имеет несколько функций приватности, которые можно использовать ежедневно, чтобы обеспечить при веб-сёрфинге приватность ваших личных данных.
+
+
+;Private Browsing
+Приватный просмотр
+
+
+;When Private Browsing tabs are opened, Firefox for Android won’t accept cookies, remember passwords or record a history of any sites that you’ve visited. You can open a Private Browsing session by tapping on your browser menu icons and selecting &quot;New Private Tab&quot;.
+При открытии вкладки Приватного просмотра Firefox для Android не будет принимать куки, запоминать пароли или записывать историю любых посещённых вами сайтов. Вы можете открыть сеанс приватного просмотра, нажав на значок меню своего браузера и выбрав &quot;Приватная вкладка&quot;.
+
+
+;Learn more about Private Browsing
+Узнать больше о Приватном просмотре
+
+
+;Guest Browsing
+Гостевая сессия
+
+
+;A Guest Browsing session lets someone else use Firefox on your Android device without seeing your personal info like passwords, bookmarks and history.
+Гостевая сессия позволяет кому-либо ещё использовать Firefox на вашем устройстве Android, не видя вашу личную информацию, такую как пароли, закладки и история.
+
+
+;Learn more about Guest Browsing
+Узнать больше о Гостевой сессии
+
+
+# Title
+;Clear History and other data
+Удаление истории и других данных
+
+
+;Easily delete your personal data, such as browsing history, passwords and more any time you like. In your privacy settings, you can also choose to clear private data every time you select &quot;Quit&quot; from the main menu.
+Легко удаляйте свои личные данные, такие как историю веб-сёрфинга, пароли и другое в удобное для вас время. В настройках приватности вы можете также выбрать удаление личных данных каждый раз, когда вы выбираете из главного меню &quot;Выход&quot;.
+
+
+;Learn how to clear your history
+Узнать, как удалить свою историю
+
+
+# Title
+;HTTPS Search
+Поиск через HTTPS
+
+
+;To keep your online searches private, we recommend only using search engines that support HTTPS, a secure communications protocol. To help keep you informed, Firefox will prompt you before you make a search that goes over an unsecured HTTP network. Firefox will also give you a warning if you try to make an HTTP search engine your default. You can change your default search engine at any time in the search settings page.
+Чтобы обеспечить приватность вашего поиска в Интернете, мы рекомендуем использовать только те поисковые системы, которые поддерживают HTTPS, протокол безопасной связи. Чтобы вы были в курсе, Firefox будет выдавать запрос перед тем, как вы начнете поиск через незащищенную HTTP сеть. Firefox также будет выдавать предупреждение, если вы попытаетесь установить по умолчанию поисковую систему, использующую HTTP. Вы можете в любое время изменить поисковую систему по умолчанию на странице параметров поиска.
+
+
+# Title
+;Additional Add-ons
+Добавочные дополнения
+
+
+;We hope you’ve found the Firefox Privacy Coach helpful and have a better understanding of your browser's many privacy features and settings. If you would like even more control of your personal browsing data, check out some of the add-ons listed below.
+Мы надеемся, что вы нашли Тренера по приватности Firefox полезным и получили лучшее представление о множестве функций и параметров приватности браузера. Если вы хотите обрести ещё больший контроль над личными данными веб-сёрфинга, попробуйте некоторые из перечисленных ниже дополнений.
+
+
+# Description for 'Ghostery' add-on
+;Protects your privacy by letting you see who's tracking your Web browsing and block them.
+Защищает вашу приватность, позволяя вам видеть, кто отслеживает ваш веб-сёрфинг, и блокировать их.
+
+
+# Description for 'HTTPS Everywhere' add-on
+;Encrypts your communications with many major websites, making your browsing more secure.
+Шифрует вашу связь со множеством крупных веб-сайтов, что делает ваш веб-сёрфинг более безопасным.
+
+
+# Description for 'Self Destructing Cookies' add-on
+;Gets rid of a site's cookies and LocalStorage as soon as you close any open tabs for that page. It also protects against trackers and zombie-cookies and lets you whitelist services you know are trustworthy.
+Избавляет от куков сайта и Локального Хранилища как только вы закроете все открытые вкладки этой страницы. Также защищает от трекеров и куков-зомби и позволяет вам заносить в белый список сервисы, которым, по вашему мнению, можно доверять.
+
+
+;For even more, you can explore our full set of <a>Security &amp; Privacy add-ons »</a>
+Чтобы найти ещё больше дополнений, просмотрите наш полный набор <a>дополнений Безопасности и приватности »</a>
+
+
+# Button for privacy settings
+;Privacy Settings
+Параметры приватности
+
+
+# Button for general Mozilla settings
+;Mozilla Settings
+Параметры Mozilla
+
+
+# Search button
+;Search Settings
+Параметры поиска
+
+
+;Learn More
+Подробнее
+
+
+# This is the description of the extension for the Add-on manager
+;Add-on that helps you use privacy features in your browser.
+Дополнение, помогающее вам использовать в браузере функции приватности.
+
+

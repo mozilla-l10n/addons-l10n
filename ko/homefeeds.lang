@@ -1,0 +1,22 @@
+##NOTE:add-on is https://addons.mozilla.org/en-US/android/addon/home-feeds/
+
+#Add-on description displayed in Firefox preferences
+;Allows you to subscribe to feeds on your home page.
+현재 부가 기능을 이용하면 홈 화면에서 피드를 표시할 수 있게 됩니다.
+
+#Label for page action item
+;Subscribe to page
+페이지 구독
+
+#Title for subscribe prompt
+;Subscribe with
+구독 하기 - 
+
+#Toast notification that appears after the user subscribes to a feed
+#%S is replaced with the brandShortName string.
+;Feed added to %S homepage
+%S 홈 화면 추가
+
+#Toast notification that appears if a panel already exists for the feed
+;This feed is already on your homepage
+현재 피드 홈 화면 추가 완료
